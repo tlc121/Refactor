@@ -1,0 +1,1371 @@
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_98.jpg 1505,15,1697,183,0 664,315,917,465,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/ec30512d608ef63bad04b53d7ffa884face82c2e.jpg 73,891,240,1016,0 43,708,141,760,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/314b8a5fd63716591ebde1c213b4281312d1c39c.jpg 1146,278,1298,445,0
+/data/niezl/TCT/tct_detection/tct_0513/f04f0e7c46994107b78175a0d862946c_475.jpg 1314,818,1580,1091,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/385c1d1aa5564dbfa98a580c7fdb1b33_106.jpg 504,133,774,296,0
+/data/niezl/TCT/tct_detection/tct_0513/f9d88195cbb044df8f84e146e0c3c6f0_372.jpg 1539,28,1657,97,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/1d4c2188571c92dff2e49c50a1ef37613c07d206.jpg 778,733,938,843,0
+/data/niezl/TCT/tct_detection/tct_0513/b57ef31f73df475fb64fd0bf0a56e93c_227.jpg 420,65,543,211,0
+/data/niezl/TCT/tct_detection/tct_0513/903611c9ef13488aaa96cfe745edfb2f_119.jpg 1425,418,1677,638,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_142.jpg 1140,948,1274,1106,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/ad78a6ab13fca3c576b8cdbf8d7018109d8f8d10.jpg 860,362,1013,565,0 38,1138,130,1216,0
+/data/niezl/TCT/tct_detection/tct_0513/1290cecdd8a94ee7b964996541cedda6_108.jpg 1680,440,1820,629,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/e2644b68f1536d6f2bf5b4993fc7ad58b66b828c.jpg 1003,828,1123,946,0 988,991,1148,1091,0
+/data/niezl/TCT/tct_detection/tct_0513/572d0441fb684ac099ae2f9e1b11c12d_97.jpg 735,291,886,481,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/cc91bb28ab380fce57e9decb986588e1300c079b.jpg 651,359,791,476,0 1201,611,1376,698,0
+/data/niezl/TCT/tct_detection/tct_0513/5b0937dc2f0b4205b5175308619df39a_176.jpg 300,237,451,339,0
+/data/niezl/TCT/tct_detection/tct_0513/66c2265c3cb64109b930a3263c659539_37.jpg 84,81,196,309,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/76cada6fede240f09909b648e44cf481_7.jpg 1831,782,1911,861,0
+/data/niezl/TCT/tct_detection/tct_0513/73a14d6772b7496a9abf7c8c151d911e_26.jpg 129,11,259,149,0
+/data/niezl/TCT/tct_detection/tct_0513/66c2265c3cb64109b930a3263c659539_232.jpg 1146,763,1251,932,0
+/data/niezl/TCT/tct_detection/tct_0513/cb095185776b4a5ea527fac7f7b257d6_294.jpg 963,288,1138,599,0
+/data/niezl/TCT/tct_detection/tct_0513/096394dcf54d4cb5b65b7f52880fda0b_46.jpg 248,722,440,886,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/1db95fcafdace4e4b5b40913aba1b9244c96152b.jpg 377,413,517,608,0 371,248,458,375,0 110,661,210,713,0 384,458,513,612,0
+/data/niezl/TCT/tct_detection/tct_0513/706905c43d7f42e9a8e0f17da5f5f480_504.jpg 1048,985,1167,1083,0
+/data/niezl/TCT/tct_detection/tct_0513/8f74253f74fb42b88e9ed1a6fa6de5ba_7.jpg 1231,508,1376,649,0
+/data/niezl/TCT/tct_detection/tct_0513/6ac18b37031047c4938cd688422a294f_101.jpg 952,823,1107,932,0
+/data/niezl/TCT/tct_detection/tct_0513/76cada6fede240f09909b648e44cf481_312.jpg 1498,466,1676,654,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/0b559ea57e4142588161f60368c801b9_238.jpg 1246,406,1375,557,0
+/data/niezl/TCT/tct_detection/tct_0513/8c2b3b4ae92f4ad7b984631ea177eb49_484.jpg 759,567,880,722,0
+/data/niezl/TCT/tct_detection/tct_0513/a138d89014764e13ae25b1e5f5d3e0ea_89.jpg 1431,647,1632,829,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/1721a4067907ac9461a3280dab1353e02f11fbb9.jpg 1006,1120,1051,1173,0 710,10,871,183,0
+/data/niezl/TCT/tct_detection/tct_0513/b363a210e7c04c11930b1badfaebf951_137.jpg 42,809,419,1138,0 122,100,307,377,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/1290cecdd8a94ee7b964996541cedda6_37.jpg 1034,394,1584,1089,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/31de58b4ea011fbdfd057bc680454eaf15fe6f9d.jpg 1027,108,1066,163,0 1498,443,1693,590,0
+/data/niezl/TCT/tct_detection/tct_0513/a37d89fbcfcb4c78bd0fdc2fe21298b1_528.jpg 32,811,194,1066,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/9f350e4fe93eb4798dca2c63995ea55494ffe090.jpg 1647,0,1850,190,0
+/data/niezl/TCT/tct_detection/tct_0513/63f36c190d99497186164a90def49a42_419.jpg 1582,119,1797,252,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/ac5db318a1f44b0f81f86ab1cca544d2_440.jpg 1683,681,1911,1046,0
+/data/niezl/TCT/tct_detection/tct_0513/59f3a589997e48458fdfb3b21f809a2c_161.jpg 994,968,1185,1198,0
+/data/niezl/TCT/tct_detection/tct_0513/f7e1cc4dc6f0497a94cebfada1ebdd60_335.jpg 17,324,233,696,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/8322c6040d8a478d8f77a4cdc6575802_95.jpg 160,577,203,639,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/c386ca18f57d485da07b76057d75be76_75.jpg 1107,284,1219,437,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/8e14204e39164f4ba0097a6864283be2_137.jpg 1612,245,1749,473,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/532428435ef141359661591196039beb_275.jpg 295,166,361,214,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/385c1d1aa5564dbfa98a580c7fdb1b33_277.jpg 1106,275,1311,488,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/25d6934de9c2445989055a58217e4c2d_72.jpg 1838,99,1925,247,0
+/data/niezl/TCT/tct_detection/tct_0513/c9006d2c3ab54de4bd53069ebd084604_492.jpg 129,26,335,191,0
+/data/niezl/TCT/tct_detection/tct_0513/5943e863302742fab6956192932a172e_34.jpg 1496,677,1742,942,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/a4bf5576f4052e86cb329466472945534086857e.jpg 72,28,165,135,0
+/data/niezl/TCT/tct_detection/tct_0513/946e4b96b922488b88a594859d5466d6_236.jpg 1242,779,1395,921,0
+/data/niezl/TCT/tct_detection/tct_0513/0bbafcda52b64433984ac73ba4defff5_248.jpg 51,361,116,418,0
+/data/niezl/TCT/tct_detection/tct_0513/5d3bbe01ab334b329ea5d2fe729defe5_343.jpg 1498,308,1807,740,0
+/data/niezl/TCT/tct_detection/tct_0513/b96b87cefa494eddb0a3eb7fd71e2d0b_209.jpg 1070,336,1315,563,0 1259,980,1453,1192,0
+/data/niezl/TCT/tct_detection/tct_0513/a9d78b6697354733aa3bf290b40bd5b3_180.jpg 283,316,495,516,0
+/data/niezl/TCT/tct_detection/tct_0513/8e1f4fc6c02f45a68b1d3d4ce858f4eb_404.jpg 820,122,966,234,0
+/data/niezl/TCT/tct_detection/tct_0513/62805a85ba8e4d19b9ad76ee5cc73bc9_195.jpg 573,528,759,824,0
+/data/niezl/TCT/tct_detection/tct_0513/4335bbe5438d4705b0fc5ae13ddd9aa5_43.jpg 1146,125,1470,429,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/dea3799a969ebe86130e45144a3e82349f0f74e3.jpg 258,560,350,621,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/1290cecdd8a94ee7b964996541cedda6_49.jpg 1069,605,1237,708,0
+/data/niezl/TCT/tct_detection/tct_0513/2c8b7c89010a4e98a4386e65a3119234_30.jpg 146,1023,299,1145,0 1533,264,1703,544,0
+/data/niezl/TCT/tct_detection/tct_0513/7be1b21c5f194ad4b2c83618cc8d387c_26.jpg 110,115,248,288,0
+/data/niezl/TCT/tct_detection/tct_0513/5943e863302742fab6956192932a172e_46.jpg 166,112,358,371,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/dda13a40110ea7c7bfb20e5a005a79168aa41331.jpg 343,985,443,1119,0
+/data/niezl/TCT/tct_detection/tct_0513/59f3a589997e48458fdfb3b21f809a2c_184.jpg 1308,734,1566,949,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/59f3a589997e48458fdfb3b21f809a2c_43.jpg 184,28,889,511,0
+/data/niezl/TCT/tct_detection/tct_0513/63f36c190d99497186164a90def49a42_184.jpg 219,836,361,992,0
+/data/niezl/TCT/tct_detection/tct_0513/8e1f4fc6c02f45a68b1d3d4ce858f4eb_140.jpg 477,204,584,304,0
+/data/niezl/TCT/tct_detection/tct_0513/c0e5d004a7b847bdad26987c06d3d924_30.jpg 550,671,664,806,0
+/data/niezl/TCT/tct_detection/tct_0513/ff500f6546584bdb9ec6aaaf635dfd14_422.jpg 1055,118,1123,201,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/9429b4b3558be123f01b5fc768db9caf6b8ca7a2.jpg 1771,85,1924,217,0
+/data/niezl/TCT/tct_detection/tct_0513/bff0044da12845898a0e624f444b4f74_433.jpg 237,430,356,551,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/9ad63c90c808b8b38ba20d77ae30e09948838bed.jpg 798,776,1101,1148,0
+/data/niezl/TCT/tct_detection/tct_0513/082b6820f42249dbbe5b715ad95cab3c_12.jpg 552,589,655,785,0 765,220,951,323,0
+/data/niezl/TCT/tct_detection/tct_0513/b57ef31f73df475fb64fd0bf0a56e93c_174.jpg 806,606,950,793,0
+/data/niezl/TCT/tct_detection/tct_0513/63d00298be9744568157d22bc3d1b050_401.jpg 1663,243,1838,438,0
+/data/niezl/TCT/tct_detection/tct_0513/92c8d54d20ba47168f2967ef040232c8_318.jpg 481,680,705,915,0
+/data/niezl/TCT/tct_detection/tct_0513/ae058119904845bfb35a3103c2594f5c_483.jpg 7,145,374,357,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/727c66c5f46455c594dcf98edc075e006ef686fa.jpg 672,148,740,280,0
+/data/niezl/TCT/tct_detection/tct_0513/59f3a589997e48458fdfb3b21f809a2c_66.jpg 571,592,749,745,0
+/data/niezl/TCT/tct_detection/tct_0513/a5aa7e0ef65c4e2594a4de26bd33fce8_150.jpg 799,103,1016,250,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/dc4cc8943ffcfe72da80de683b12f9b77dfd7cfa.jpg 1056,898,1171,1026,0
+/data/niezl/TCT/tct_detection/tct_0513/a8da6c55f89e4e26a63bf9e7b3ae59d5_45.jpg 794,369,1012,554,0
+/data/niezl/TCT/tct_detection/tct_0513/0b87a49c53b94fa3a4fc501e5fc9f141_2.jpg 1217,12,1310,87,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/620b27e038e2bdc43d3f339e77a61645832d6c54.jpg 762,1063,906,1206,0 195,248,280,330,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/bc600c5f819f6f7a45399c8e3c7d74599aa6c1c1.jpg 1058,972,1261,1055,0
+/data/niezl/TCT/tct_detection/tct_0513/2b4665839b1f4c2ba623b068f065e8cd_231.jpg 1447,743,1561,896,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/8e14204e39164f4ba0097a6864283be2_143.jpg 1009,28,1153,272,0
+/data/niezl/TCT/tct_detection/tct_0513/a547de88114747668c14520fd4a819d2_304.jpg 1614,316,1844,578,0
+/data/niezl/TCT/tct_detection/tct_0513/3e2cc4ee513f4fdaaca219d127fc17d5_52.jpg 1104,858,1209,1057,0 1317,591,1428,733,0 1241,304,1383,443,0
+/data/niezl/TCT/tct_detection/tct_0513/8c729b4deb32443bbf6c9751ab28a896_92.jpg 1011,117,1210,329,0
+/data/niezl/TCT/tct_detection/tct_0513/3e2cc4ee513f4fdaaca219d127fc17d5_80.jpg 147,992,241,1088,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_490.jpg 1228,350,1451,524,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/611e8351666b698ebb45f3fcbe5b07bcc30de787.jpg 1271,738,1436,918,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/312cd86553efa7ccdaf7aca25bb9cad3e08a23b2.jpg 108,415,317,595,0 133,3,290,113,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/602637219261c82452ce0364f1be26e31b09e655.jpg 1063,109,1220,347,0
+/data/niezl/TCT/tct_detection/tct_0513/2c8b7c89010a4e98a4386e65a3119234_499.jpg 233,832,419,1020,0
+/data/niezl/TCT/tct_detection/tct_0513/25d6934de9c2445989055a58217e4c2d_83.jpg 368,348,470,441,0 731,60,808,222,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/550c3d3fc11f16a415e3c5c94250c02510e6e3cf.jpg 23,133,118,230,0
+/data/niezl/TCT/tct_detection/tct_0513/96fb3b21d90f4bf8818c370561891f4f_482.jpg 76,815,236,971,0
+/data/niezl/TCT/tct_detection/tct_0513/a8da6c55f89e4e26a63bf9e7b3ae59d5_320.jpg 1060,838,1248,1094,0
+/data/niezl/TCT/tct_detection/tct_0513/66c2265c3cb64109b930a3263c659539_412.jpg 235,647,381,786,0
+/data/niezl/TCT/tct_detection/tct_0513/5ad687b3e881452fb110e84dc142e310_493.jpg 1293,839,1472,1060,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/8a7fece99cc54f0cae344d21d0630f3c_481.jpg 331,186,537,569,0
+/data/niezl/TCT/tct_detection/tct_0513/6ac18b37031047c4938cd688422a294f_24.jpg 226,562,338,688,0
+/data/niezl/TCT/tct_detection/tct_0513/973b63ebf7d446768a26587a183164e4_475.jpg 1718,414,1912,662,0
+/data/niezl/TCT/tct_detection/tct_0513/8f0c41e1ad0d4160b432c3bb184744b5_177.jpg 1617,472,1796,623,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/9f85680524d04a188b7b6ddf1fadfdc2_483.jpg 1048,175,1255,375,0
+/data/niezl/TCT/tct_detection/tct_0513/082b6820f42249dbbe5b715ad95cab3c_180.jpg 67,893,341,1108,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/b85b88b5e88b498417726b186ebe3e532155c1fd.jpg 172,422,246,487,0 2,721,57,786,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/8e14204e39164f4ba0097a6864283be2_36.jpg 1073,231,1361,535,0
+/data/niezl/TCT/tct_detection/tct_0513/3305ebb7956d4afab708473081ec4d26_74.jpg 388,174,788,562,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/1cb116d8bfb54c41b6a792d0308c2684_373.jpg 22,472,142,660,0 91,304,267,494,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/865a30f1936340189465eb5260c02784_165.jpg 999,50,1119,180,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/6784de46b189668043302c9427d048b851c4d783.jpg 1234,964,1340,1077,0
+/data/niezl/TCT/tct_detection/tct_0513/8322c6040d8a478d8f77a4cdc6575802_419.jpg 579,695,813,789,0 64,1107,264,1213,0
+/data/niezl/TCT/tct_detection/tct_0513/3789fff0c4484d8b9519d307d74e7437_295.jpg 440,500,533,612,0 1184,112,1371,295,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/8e14204e39164f4ba0097a6864283be2_310.jpg 783,28,963,215,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/4c541c09a5d9797cd4f54ff96540ffb067009e02.jpg 1442,168,1516,204,0
+/data/niezl/TCT/tct_detection/tct_0513/a8da6c55f89e4e26a63bf9e7b3ae59d5_355.jpg 842,346,975,595,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/053c18204cd14d3b8d69f9a2d6e094f4_374.jpg 1683,116,1914,334,0
+/data/niezl/TCT/tct_detection/tct_0513/19323ea6b82640789e40d1a3ede98ff8_204.jpg 86,860,291,1082,0
+/data/niezl/TCT/tct_detection/tct_0513/7be1b21c5f194ad4b2c83618cc8d387c_213.jpg 69,904,192,1098,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/a138d89014764e13ae25b1e5f5d3e0ea_299.jpg 986,97,1187,316,0
+/data/niezl/TCT/tct_detection/tct_0513/fa05d1888dce4a2c8e41179af4920280_19.jpg 1746,421,1899,659,0
+/data/niezl/TCT/tct_detection/tct_0513/946e4b96b922488b88a594859d5466d6_314.jpg 1692,633,1804,731,0
+/data/niezl/TCT/tct_detection/tct_0513/b38153ca3c174932b0722945e50e9a03_140.jpg 1605,921,1790,1049,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/c386ca18f57d485da07b76057d75be76_209.jpg 799,946,973,1122,0
+/data/niezl/TCT/tct_detection/tct_0513/1e88a6d4d7dc43d28928bfd53c2ba0ce_298.jpg 1689,916,1798,1072,0
+/data/niezl/TCT/tct_detection/tct_0513/ff500f6546584bdb9ec6aaaf635dfd14_434.jpg 615,1093,711,1206,0
+/data/niezl/TCT/tct_detection/tct_0513/fc71b18c13a44fb3b9b7226dfad8416f_468.jpg 1404,351,1738,862,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/f8347b3e36ef5b8b2586c9d36a943ad31fb00cbb.jpg 233,473,335,555,0
+/data/niezl/TCT/tct_detection/tct_0513/082b6820f42249dbbe5b715ad95cab3c_149.jpg 1444,151,1617,319,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_470.jpg 1092,967,1285,1189,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/b69ae0f40376b31400fc38ea5060d7d8220bef0f.jpg 204,76,503,334,0
+/data/niezl/TCT/tct_detection/tct_0513/973b63ebf7d446768a26587a183164e4_101.jpg 983,401,1192,569,0
+/data/niezl/TCT/tct_detection/tct_0513/3fc72122cd384645bec7453a7902c7b9_326.jpg 1100,1087,1265,1215,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/445584d1e769eaa3c24d615717989853769d2d26.jpg 736,647,915,781,0 1430,906,1523,994,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/c1dfb8ad371240c48ac7efd19d884aac_387.jpg 733,546,820,663,0
+/data/niezl/TCT/tct_detection/tct_0513/2ec8653446a9406c9b45693d8c91caf9_183.jpg 7,327,281,631,0
+/data/niezl/TCT/tct_detection/tct_0513/096394dcf54d4cb5b65b7f52880fda0b_31.jpg 912,248,1018,429,0 731,985,862,1125,0 198,705,323,854,0
+/data/niezl/TCT/tct_detection/tct_0513/913cc54333864a5eb5692eeb275592a2_12.jpg 471,543,549,735,0
+/data/niezl/TCT/tct_detection/tct_0513/c51d01dbe09b45ca868f18d10f15e8a0_214.jpg 938,149,1250,517,0
+/data/niezl/TCT/tct_detection/tct_0513/3481aaf5ac7642699d3151ebdb8c8520_3.jpg 476,21,679,281,0
+/data/niezl/TCT/tct_detection/tct_0513/a8da6c55f89e4e26a63bf9e7b3ae59d5_527.jpg 1063,31,1467,397,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/09eb761038e5ab17685a645e7751b81da2c61cd2.jpg 120,580,408,716,0
+/data/niezl/TCT/tct_detection/tct_0513/5de2fc9342f14d5aafa6e706075f4e41_104.jpg 1302,665,1380,702,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/49f52ed68cd64e01551998d7b32262c017d28a25.jpg 1299,398,1349,474,0
+/data/niezl/TCT/tct_detection/tct_0513/320566ffc82a4c37af1c5cee261905b1_160.jpg 616,736,794,901,0 883,795,1296,1092,0
+/data/niezl/TCT/tct_detection/tct_0513/73a14d6772b7496a9abf7c8c151d911e_289.jpg 330,453,563,705,0
+/data/niezl/TCT/tct_detection/tct_0513/7afbb0eebd724841b925d53fcf2b3e84_188.jpg 148,192,272,298,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/a5aa7e0ef65c4e2594a4de26bd33fce8_125.jpg 1217,320,1384,428,0
+/data/niezl/TCT/tct_detection/tct_0513/320566ffc82a4c37af1c5cee261905b1_369.jpg 870,128,992,265,0
+/data/niezl/TCT/tct_detection/tct_0513/1eb498576ab74536ac268644046e1d22_118.jpg 1749,460,1829,576,0
+/data/niezl/TCT/tct_detection/tct_0513/4ca5258925e8471294d607a6aedea040_99.jpg 1197,210,1364,471,0
+/data/niezl/TCT/tct_detection/tct_0513/96fb3b21d90f4bf8818c370561891f4f_312.jpg 151,511,276,657,0
+/data/niezl/TCT/tct_detection/tct_0513/b96b87cefa494eddb0a3eb7fd71e2d0b_187.jpg 251,837,447,1154,0 1004,300,1166,485,0
+/data/niezl/TCT/tct_detection/tct_0513/7be1b21c5f194ad4b2c83618cc8d387c_270.jpg 923,90,1095,275,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/136b16241eb0cc293d6461bc5c1de569d233facc.jpg 798,155,1044,253,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/be9faf960e40d6ea1a5eb7eaf658eedb7a579a70.jpg 623,663,777,769,0 741,426,831,561,0 267,36,405,160,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/cbb418be787b1fa93517f8ce606816d3237b9148.jpg 463,190,620,445,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/a547de88114747668c14520fd4a819d2_253.jpg 1170,677,1299,798,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/5438c0687a9442fe80a090af6608693d_201.jpg 1291,29,1437,252,0
+/data/niezl/TCT/tct_detection/tct_0513/1c435a8034a744a8865de6f040cc923a_91.jpg 1621,1,1854,181,0 1237,839,1324,948,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/6a3ff84c46b201178262da12695b66ea9bcc3cd2.jpg 1866,358,1930,450,0
+/data/niezl/TCT/tct_detection/tct_0513/3481aaf5ac7642699d3151ebdb8c8520_6.jpg 1438,8,1623,128,0 190,195,601,368,0 619,920,804,1075,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/2db4f527bc737dfd5f1a09942477ef2ff7687d61.jpg 1576,599,1820,784,0
+/data/niezl/TCT/tct_detection/tct_0513/5b43d71ddbef4ceb96eea28834f15c53_175.jpg 244,1007,427,1212,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/dc5275a10c4ef5e3a887c2f66c88ec967a8f8347.jpg 708,2,939,116,0 1622,310,1720,413,0
+/data/niezl/TCT/tct_detection/tct_0513/3789fff0c4484d8b9519d307d74e7437_267.jpg 1194,485,1335,683,0
+/data/niezl/TCT/tct_detection/tct_0513/7be1b21c5f194ad4b2c83618cc8d387c_61.jpg 804,19,903,168,0 241,41,459,349,0
+/data/niezl/TCT/tct_detection/tct_0513/2c8b7c89010a4e98a4386e65a3119234_368.jpg 949,66,1022,125,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/8fcd01d7282247cc98340748a4a210f9_365.jpg 1678,829,1808,950,0
+/data/niezl/TCT/tct_detection/tct_0513/096394dcf54d4cb5b65b7f52880fda0b_277.jpg 1175,681,1662,1056,0
+/data/niezl/TCT/tct_detection/tct_0513/b96b87cefa494eddb0a3eb7fd71e2d0b_467.jpg 904,373,1084,507,0
+/data/niezl/TCT/tct_detection/tct_0513/096394dcf54d4cb5b65b7f52880fda0b_144.jpg 15,505,504,1080,0
+/data/niezl/TCT/tct_detection/tct_0513/9b465ecd4034419aa6984ffe38118590_392.jpg 293,142,455,326,0
+/data/niezl/TCT/tct_detection/tct_0513/e834f7a72bce4a339537100a660c6299_249.jpg 645,800,826,1011,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_123.jpg 665,31,843,198,0
+/data/niezl/TCT/tct_detection/tct_0513/22d73fa47c8a4cdcae60367760e37ca3_201.jpg 1240,827,1386,1001,0
+/data/niezl/TCT/tct_detection/tct_0513/a82512f3741a4362a120cb6b7f5384c2_364.jpg 288,734,436,850,0
+/data/niezl/TCT/tct_detection/tct_0513/fc71b18c13a44fb3b9b7226dfad8416f_200.jpg 1135,12,1319,290,0
+/data/niezl/TCT/tct_detection/tct_0513/a8da6c55f89e4e26a63bf9e7b3ae59d5_27.jpg 482,998,730,1165,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_114.jpg 370,23,567,120,0 122,45,336,167,0 1558,309,1791,501,0 826,145,982,273,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/bf6a6c6aadb60ea7c4bb47432bb2d84ac848d7e6.jpg 397,781,738,1084,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/ac5db318a1f44b0f81f86ab1cca544d2_77.jpg 1162,33,1310,284,0
+/data/niezl/TCT/tct_detection/tct_0513/3151317b4a744be6889dde7044cd408f_251.jpg 511,433,638,595,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/0aaa497f0b8c252be73e1f6295fb42ec19994286.jpg 1238,778,1353,841,0 354,9,501,151,0 815,143,913,201,0
+/data/niezl/TCT/tct_detection/tct_0513/594b835c56a54b749e5f66e7e6d7f97d_140.jpg 1569,350,1651,427,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/8e14204e39164f4ba0097a6864283be2_12.jpg 1486,156,1600,316,0
+/data/niezl/TCT/tct_detection/tct_0513/b96b87cefa494eddb0a3eb7fd71e2d0b_188.jpg 1449,150,1631,298,0 6,653,178,944,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/72e642f98a46d44f298d54995e41073c067a0111.jpg 798,560,916,661,0
+/data/niezl/TCT/tct_detection/tct_0513/0ae96e901f73422d96959cf006a62e98_256.jpg 306,79,399,189,0 1324,271,1444,365,0
+/data/niezl/TCT/tct_detection/tct_0513/a8da6c55f89e4e26a63bf9e7b3ae59d5_201.jpg 684,786,925,1042,0
+/data/niezl/TCT/tct_detection/tct_0513/5c315ddf29954ab39536a88f89a77627_136.jpg 1205,155,1339,332,0
+/data/niezl/TCT/tct_detection/tct_0513/cc7a691654074c08b89218fc64d3ce87_515.jpg 1684,146,1798,285,0
+/data/niezl/TCT/tct_detection/tct_0513/b363a210e7c04c11930b1badfaebf951_142.jpg 499,130,764,463,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/ac5db318a1f44b0f81f86ab1cca544d2_145.jpg 829,676,1000,950,0
+/data/niezl/TCT/tct_detection/tct_0513/0c9d33fff53c4da7adbbb942b10a6e06_177.jpg 1573,618,1735,734,0
+/data/niezl/TCT/tct_detection/tct_0513/a5aa7e0ef65c4e2594a4de26bd33fce8_90.jpg 591,277,703,412,0
+/data/niezl/TCT/tct_detection/tct_0513/a35fa6fff505407e82c20a4b15d22b5c_62.jpg 630,676,772,788,0
+/data/niezl/TCT/tct_detection/tct_0513/2871c3ca5e5f406d9d42b2c338704944_589.jpg 854,705,1041,983,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/ac62b942202b40f99675382b6076a231_504.jpg 1604,222,1789,606,0
+/data/niezl/TCT/tct_detection/tct_0513/62805a85ba8e4d19b9ad76ee5cc73bc9_261.jpg 407,987,608,1153,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/f4db23be33839a27c11e67f378804fc49967d7ae.jpg 554,314,630,412,0
+/data/niezl/TCT/tct_detection/tct_0513/3fc72122cd384645bec7453a7902c7b9_178.jpg 977,313,1050,384,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/8ec39d17dd8a447d851fb123653ecd34_2.jpg 942,35,1138,431,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/a9ab9fdbf6e32ed584146d53b22c52f82875bb6e.jpg 1056,115,1198,228,0
+/data/niezl/TCT/tct_detection/tct_0513/fa05d1888dce4a2c8e41179af4920280_388.jpg 933,918,1064,1135,0
+/data/niezl/TCT/tct_detection/tct_0513/e45563b85a2244c9b913aa8235466de5_304.jpg 306,499,431,700,0
+/data/niezl/TCT/tct_detection/tct_0513/9f85680524d04a188b7b6ddf1fadfdc2_2.jpg 856,664,1089,964,0
+/data/niezl/TCT/tct_detection/tct_0513/60a24321adf64ad8bc8764489de24032_5.jpg 1237,653,1449,862,0
+/data/niezl/TCT/tct_detection/tct_0513/6b41bc83242f42c5b4f015ad69682bb9_356.jpg 541,136,758,342,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/6a352bfbf0790fbbe7c309903610a40318e56125.jpg 335,880,584,1091,0
+/data/niezl/TCT/tct_detection/tct_0513/f2c637bf82bd4052b4f03925cc0ce7a0_13.jpg 405,304,679,541,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/c5185a8ca2ca45c14c023344f8c47926a0b25c60.jpg 456,712,585,854,0 142,614,283,769,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/d4685e419dbbde80307ec0b683e70f1aedbc4477.jpg 558,627,700,846,0 585,640,684,840,0
+/data/niezl/TCT/tct_detection/tct_0513/63f36c190d99497186164a90def49a42_507.jpg 954,791,1098,941,0
+/data/niezl/TCT/tct_detection/tct_0513/bc3dc5e2ff894545b0a7ec2b330b1fca_124.jpg 51,412,230,574,0
+/data/niezl/TCT/tct_detection/tct_0513/1e88a6d4d7dc43d28928bfd53c2ba0ce_368.jpg 1062,10,1156,132,0
+/data/niezl/TCT/tct_detection/tct_0513/c9006d2c3ab54de4bd53069ebd084604_509.jpg 1555,480,1844,1049,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/8932b8fd8e10d007e2c92e43ecc50bfdd258bbf4.jpg 442,551,569,632,0
+/data/niezl/TCT/tct_detection/tct_0513/4ca5258925e8471294d607a6aedea040_390.jpg 619,679,973,1181,0
+/data/niezl/TCT/tct_detection/tct_0513/7587d7b1ea23403fa31c7d5c6828c6de_428.jpg 1283,30,1409,126,0
+/data/niezl/TCT/tct_detection/tct_0513/25d6934de9c2445989055a58217e4c2d_26.jpg 249,380,322,460,0
+/data/niezl/TCT/tct_detection/tct_0513/fa05d1888dce4a2c8e41179af4920280_70.jpg 475,738,598,1014,0
+/data/niezl/TCT/tct_detection/tct_0513/a82512f3741a4362a120cb6b7f5384c2_263.jpg 1664,727,1799,891,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/1290cecdd8a94ee7b964996541cedda6_24.jpg 11,202,140,359,0
+/data/niezl/TCT/tct_detection/tct_0513/611e103dd56f4ceba2db75b895c5ff25_527.jpg 733,766,1035,995,0
+/data/niezl/TCT/tct_detection/tct_0513/946e4b96b922488b88a594859d5466d6_84.jpg 169,795,345,941,0
+/data/niezl/TCT/tct_detection/tct_0513/6b42fca0b2a7469380d782fd9648db30_56.jpg 1069,50,1172,151,0
+/data/niezl/TCT/tct_detection/tct_0513/db1a6dc901734173928b90864ae67216_79.jpg 619,465,796,659,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/26e18b44774404e83f716466b48780813d158762.jpg 1792,214,1905,330,0
+/data/niezl/TCT/tct_detection/tct_0513/7587d7b1ea23403fa31c7d5c6828c6de_73.jpg 1626,825,1824,1087,0 310,1044,431,1119,0
+/data/niezl/TCT/tct_detection/tct_0513/0a5af6b5a9e446cd812291d204840c16_86.jpg 1352,715,1503,889,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/59f3a589997e48458fdfb3b21f809a2c_139.jpg 254,245,659,532,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/d9de7190823c780514de27bd5060d5db2b3b5f81.jpg 1671,1068,1794,1198,0
+/data/niezl/TCT/tct_detection/tct_0513/180b15f1e3e24052a97830422ed7f333_363.jpg 1641,949,1880,1162,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/695b36d7ea959acbc5db2ec80f15bf83428f3e85.jpg 733,646,973,841,0
+/data/niezl/TCT/tct_detection/tct_0513/b363a210e7c04c11930b1badfaebf951_99.jpg 1206,643,1687,1078,0
+/data/niezl/TCT/tct_detection/tct_0513/b363a210e7c04c11930b1badfaebf951_120.jpg 1188,38,1323,164,0
+/data/niezl/TCT/tct_detection/tct_0513/bcb46c1ab2b042dea08bec6f90d7d539_335.jpg 290,503,612,731,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/94e0455095152c9750eafe4c0468115d7464ad57.jpg 683,165,762,251,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/25d6934de9c2445989055a58217e4c2d_22.jpg 114,282,203,478,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/5b0937dc2f0b4205b5175308619df39a_407.jpg 1578,576,1707,735,0
+/data/niezl/TCT/tct_detection/tct_0513/5ce078b512bd4744ae3cef0b8a20d661_258.jpg 1684,545,1824,664,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/a138d89014764e13ae25b1e5f5d3e0ea_300.jpg 779,1119,872,1208,0 1429,791,1539,953,0
+/data/niezl/TCT/tct_detection/tct_0513/9b465ecd4034419aa6984ffe38118590_395.jpg 1599,519,1748,776,0
+/data/niezl/TCT/tct_detection/tct_0513/8e1f4fc6c02f45a68b1d3d4ce858f4eb_435.jpg 1185,492,1329,578,0
+/data/niezl/TCT/tct_detection/tct_0513/3789fff0c4484d8b9519d307d74e7437_207.jpg 209,522,367,701,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/8ec39d17dd8a447d851fb123653ecd34_491.jpg 604,11,847,168,0 1751,22,1921,226,0
+/data/niezl/TCT/tct_detection/tct_0513/c804c7f936ac422bbb250c86ca3d9b83_83.jpg 1472,842,1580,986,0
+/data/niezl/TCT/tct_detection/tct_0513/a5aa7e0ef65c4e2594a4de26bd33fce8_135.jpg 1002,97,1169,288,0
+/data/niezl/TCT/tct_detection/tct_0513/ce7af57723a949869f93b1abfba30784_466.jpg 1609,153,1860,440,0
+/data/niezl/TCT/tct_detection/tct_0513/66c2265c3cb64109b930a3263c659539_193.jpg 1073,179,1242,332,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/d43287357dc3dc33f93aee36783ec744e617f472.jpg 408,786,498,894,0
+/data/niezl/TCT/tct_detection/tct_0513/bf8adc763f3b40288e3963c7fd96251a_72.jpg 1178,563,1269,639,0
+/data/niezl/TCT/tct_detection/tct_0513/7be1b21c5f194ad4b2c83618cc8d387c_277.jpg 464,413,599,523,0
+/data/niezl/TCT/tct_detection/tct_0513/0b87a49c53b94fa3a4fc501e5fc9f141_155.jpg 176,713,237,782,0
+/data/niezl/TCT/tct_detection/tct_0513/a8da6c55f89e4e26a63bf9e7b3ae59d5_323.jpg 22,790,212,978,0
+/data/niezl/TCT/tct_detection/tct_0513/24e78ac7f59b45228387993ee19dd413_355.jpg 831,192,1009,407,0
+/data/niezl/TCT/tct_detection/tct_0513/7be1b21c5f194ad4b2c83618cc8d387c_248.jpg 308,1004,459,1170,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/5d45e8b8764b4b83aeac754eb2b06064721bff3e.jpg 1080,335,1297,572,0
+/data/niezl/TCT/tct_detection/tct_0513/a76ff9e0d0924ef8a60fd9f1fddad68d_169.jpg 1272,1019,1361,1133,0
+/data/niezl/TCT/tct_detection/tct_0513/0297c42e08c04b2f845b92e10f54e445_524.jpg 1156,724,1277,829,0
+/data/niezl/TCT/tct_detection/tct_0513/4e917521ec414e07afd292306cf13921_276.jpg 1654,718,1897,987,0
+/data/niezl/TCT/tct_detection/tct_0513/1e88a6d4d7dc43d28928bfd53c2ba0ce_508.jpg 269,657,367,803,0
+/data/niezl/TCT/tct_detection/tct_0513/5c315ddf29954ab39536a88f89a77627_69.jpg 673,28,903,265,0 1203,944,1313,1097,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/a357b8f82fa37017518ac6b4a674b859e8e80dbf.jpg 1363,312,1483,421,0 718,219,776,297,0
+/data/niezl/TCT/tct_detection/tct_0513/3e2cc4ee513f4fdaaca219d127fc17d5_36.jpg 263,60,724,364,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/76cada6fede240f09909b648e44cf481_27.jpg 1256,405,1333,514,0 1762,133,1842,213,0 1737,957,1895,1046,0 121,81,231,170,0
+/data/niezl/TCT/tct_detection/tct_0513/73a14d6772b7496a9abf7c8c151d911e_169.jpg 144,476,351,574,0
+/data/niezl/TCT/tct_detection/tct_0513/180b15f1e3e24052a97830422ed7f333_422.jpg 1537,552,1729,720,0
+/data/niezl/TCT/tct_detection/tct_0513/7587d7b1ea23403fa31c7d5c6828c6de_185.jpg 1000,352,1094,448,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/05c54abe7c3e319b626cfe17524f398145a5e69c.jpg 830,16,933,119,0
+/data/niezl/TCT/tct_detection/tct_0513/320566ffc82a4c37af1c5cee261905b1_96.jpg 1003,610,1226,801,0
+/data/niezl/TCT/tct_detection/tct_0513/3fc72122cd384645bec7453a7902c7b9_499.jpg 260,92,441,199,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/8e14204e39164f4ba0097a6864283be2_351.jpg 1326,1051,1427,1179,0
+/data/niezl/TCT/tct_detection/tct_0513/cb095185776b4a5ea527fac7f7b257d6_255.jpg 822,886,942,1027,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_73.jpg 659,571,825,696,0 58,1009,238,1147,0
+/data/niezl/TCT/tct_detection/tct_0513/053c18204cd14d3b8d69f9a2d6e094f4_44.jpg 243,921,405,1055,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/5fd770719de6ba9489960cae15e2368e061bc2c1.jpg 925,455,1293,706,0
+/data/niezl/TCT/tct_detection/tct_0513/4f6f2f15b75049b2a65ac1dea9c06919_73.jpg 30,248,196,474,0
+/data/niezl/TCT/tct_detection/tct_0513/fa05d1888dce4a2c8e41179af4920280_153.jpg 418,147,558,267,0
+/data/niezl/TCT/tct_detection/tct_0513/7be1b21c5f194ad4b2c83618cc8d387c_53.jpg 209,520,420,621,0
+/data/niezl/TCT/tct_detection/tct_0513/5f6efd30ab1342dcb09fa7cf8ae7f648_463.jpg 660,154,783,332,0
+/data/niezl/TCT/tct_detection/tct_0513/63f36c190d99497186164a90def49a42_206.jpg 1616,110,1794,275,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/4bbd144afec97e852ac3b654319ea4084b811425.jpg 275,893,370,991,0
+/data/niezl/TCT/tct_detection/tct_0513/45834fb6546149c4b398973fdbf885b0_29.jpg 1173,329,1263,414,0
+/data/niezl/TCT/tct_detection/tct_0513/6fe64c3434824b49bd15c35c27748b93_487.jpg 571,95,821,347,0
+/data/niezl/TCT/tct_detection/tct_0513/946e4b96b922488b88a594859d5466d6_204.jpg 660,1030,781,1199,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/43766e91df7f0d7fdfd760da3aa5e28ed127c6f3.jpg 298,673,421,771,0
+/data/niezl/TCT/tct_detection/tct_0513/8e14204e39164f4ba0097a6864283be2_62.jpg 1614,530,1783,702,0
+/data/niezl/TCT/tct_detection/tct_0513/c76ecc6c1b454c1d98acd5eea48ee766_55.jpg 186,771,342,895,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/e834f7a72bce4a339537100a660c6299_107.jpg 1248,1059,1427,1207,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/9f50bebfbe89997986c5bdc0044fa8953814fbc0.jpg 911,629,1073,783,0 166,34,258,163,0 28,228,156,352,0
+/data/niezl/TCT/tct_detection/tct_0513/082b6820f42249dbbe5b715ad95cab3c_243.jpg 1015,147,1212,416,0
+/data/niezl/TCT/tct_detection/tct_0513/4553c570b1cf43289c7b65f651049b85_219.jpg 130,158,288,371,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/e76adc3aefb734be2b5261c0f291f6925b63a911.jpg 1299,206,1455,357,0 1680,983,1785,1127,0
+/data/niezl/TCT/tct_detection/tct_0513/63f36c190d99497186164a90def49a42_131.jpg 1541,1119,1639,1213,0 1505,944,1710,1076,0
+/data/niezl/TCT/tct_detection/tct_0513/b363a210e7c04c11930b1badfaebf951_320.jpg 1397,633,1541,771,0
+/data/niezl/TCT/tct_detection/tct_0513/096394dcf54d4cb5b65b7f52880fda0b_120.jpg 1662,416,1882,699,0
+/data/niezl/TCT/tct_detection/tct_0513/7be1b21c5f194ad4b2c83618cc8d387c_267.jpg 65,508,213,620,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/ac5db318a1f44b0f81f86ab1cca544d2_3.jpg 897,816,1103,1083,0 107,8,333,83,0
+/data/niezl/TCT/tct_detection/tct_0513/63d00298be9744568157d22bc3d1b050_202.jpg 1779,50,1921,307,0
+/data/niezl/TCT/tct_detection/tct_0513/cafffd51dca04100af11e1ba9585dfe5_202.jpg 118,749,170,912,0
+/data/niezl/TCT/tct_detection/tct_0513/a76ff9e0d0924ef8a60fd9f1fddad68d_3.jpg 276,615,363,711,0
+/data/niezl/TCT/tct_detection/tct_0513/ff500f6546584bdb9ec6aaaf635dfd14_392.jpg 871,836,999,926,0
+/data/niezl/TCT/tct_detection/tct_0513/3e2cc4ee513f4fdaaca219d127fc17d5_79.jpg 1329,460,1428,554,0 275,293,525,449,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/35adab7751e83cf257da1a9d9923c9dbd94f717b.jpg 858,758,1004,873,0
+/data/niezl/TCT/tct_detection/tct_0513/bc3dc5e2ff894545b0a7ec2b330b1fca_179.jpg 1520,466,1676,730,0
+/data/niezl/TCT/tct_detection/tct_0513/63d00298be9744568157d22bc3d1b050_149.jpg 243,745,547,940,0
+/data/niezl/TCT/tct_detection/tct_0513/4b9e3fbc37354a32858c47f370b20d0d_316.jpg 1231,934,1381,1132,0
+/data/niezl/TCT/tct_detection/tct_0513/c386ca18f57d485da07b76057d75be76_429.jpg 621,1122,749,1199,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/875b2065eacf1aa6212da4ae29b2d09d67959dc0.jpg 1018,728,1021,731,0 329,184,367,222,0 84,42,307,124,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_491.jpg 1126,334,1273,455,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/c4c8c826e6497b9df4b8470e9157a51115ace88f.jpg 974,1068,1052,1131,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_113.jpg 1053,12,1251,181,0 654,1035,846,1175,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/0a21f014b477a7d73e4b54daf81e43c60ee1e4b4.jpg 711,64,788,170,0
+/data/niezl/TCT/tct_detection/tct_0513/3481aaf5ac7642699d3151ebdb8c8520_108.jpg 1524,579,1664,743,0
+/data/niezl/TCT/tct_detection/tct_0513/180b15f1e3e24052a97830422ed7f333_484.jpg 15,466,110,703,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/ac5db318a1f44b0f81f86ab1cca544d2_10.jpg 1676,736,1915,1005,0
+/data/niezl/TCT/tct_detection/tct_0513/1290cecdd8a94ee7b964996541cedda6_452.jpg 1733,322,1934,727,0
+/data/niezl/TCT/tct_detection/tct_0513/63f36c190d99497186164a90def49a42_305.jpg 1406,119,1530,286,0
+/data/niezl/TCT/tct_detection/tct_0513/3481aaf5ac7642699d3151ebdb8c8520_50.jpg 498,40,983,415,0
+/data/niezl/TCT/tct_detection/tct_0513/096394dcf54d4cb5b65b7f52880fda0b_211.jpg 675,703,854,1074,0
+/data/niezl/TCT/tct_detection/tct_0513/ce51da23f1f54ac48e24ea9634293011_66.jpg 673,430,799,571,0
+/data/niezl/TCT/tct_detection/tct_0513/bf8adc763f3b40288e3963c7fd96251a_136.jpg 972,525,1180,860,0
+/data/niezl/TCT/tct_detection/tct_0513/7587d7b1ea23403fa31c7d5c6828c6de_34.jpg 387,580,447,684,0
+/data/niezl/TCT/tct_detection/tct_0513/da307f74c5264bd5952e5bb0f50c66af_449.jpg 1619,240,1796,521,0
+/data/niezl/TCT/tct_detection/tct_0513/4553c570b1cf43289c7b65f651049b85_6.jpg 1678,256,1909,460,0
+/data/niezl/TCT/tct_detection/tct_0513/bcef3014a6984cc7a5720e9f3d8ec43c_346.jpg 480,839,746,1114,0
+/data/niezl/TCT/tct_detection/tct_0513/5c315ddf29954ab39536a88f89a77627_92.jpg 1205,2,1313,155,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/8cecbe20fcad64bcc650e457bb5511bcc9dc138f.jpg 1707,468,1879,656,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/8fcd01d7282247cc98340748a4a210f9_217.jpg 1290,503,1434,633,0
+/data/niezl/TCT/tct_detection/tct_0513/f2c637bf82bd4052b4f03925cc0ce7a0_153.jpg 1054,134,1248,429,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/63dc405dcacbc99ee3e5d1f5488641736545986c.jpg 1465,677,1637,864,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/833be2f20fbe46b19b21f14f59eaa5e1_78.jpg 1686,205,1847,309,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/9582da0647522b95a2bfcffe7809ca0a750561d0.jpg 1179,897,1272,973,0 342,187,405,244,0 289,572,408,673,0 1530,1007,1628,1075,0
+/data/niezl/TCT/tct_detection/tct_0513/3481aaf5ac7642699d3151ebdb8c8520_5.jpg 550,133,867,359,0 1636,1019,1800,1211,0
+/data/niezl/TCT/tct_detection/tct_0513/59f3a589997e48458fdfb3b21f809a2c_212.jpg 1365,605,1704,962,0
+/data/niezl/TCT/tct_detection/tct_0513/320566ffc82a4c37af1c5cee261905b1_36.jpg 58,163,193,300,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/d5f78c0cca56b99a12da841344ad81410815a55f.jpg 645,501,812,692,0
+/data/niezl/TCT/tct_detection/tct_0513/8a7fece99cc54f0cae344d21d0630f3c_160.jpg 1571,718,1657,843,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/28b6aa83206f230ad028acc415fe98e557380db8.jpg 1084,1004,1242,1169,0 210,183,282,279,0 590,432,701,571,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/7dfd08194dd7b1fababea6e91e171f3b8c12d028.jpg 639,61,719,188,0
+/data/niezl/TCT/tct_detection/tct_0513/f7e1cc4dc6f0497a94cebfada1ebdd60_154.jpg 1135,223,1281,466,0
+/data/niezl/TCT/tct_detection/tct_0513/73a14d6772b7496a9abf7c8c151d911e_278.jpg 1207,798,1421,1018,0
+/data/niezl/TCT/tct_detection/tct_0513/a8da6c55f89e4e26a63bf9e7b3ae59d5_54.jpg 702,533,865,783,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/d1382e127db9d967588d3ddb243fbf463067dae1.jpg 321,126,463,304,0
+/data/niezl/TCT/tct_detection/tct_0513/62805a85ba8e4d19b9ad76ee5cc73bc9_69.jpg 1212,313,1306,420,0
+/data/niezl/TCT/tct_detection/tct_0513/903611c9ef13488aaa96cfe745edfb2f_79.jpg 367,875,589,1199,0
+/data/niezl/TCT/tct_detection/tct_0513/05df5546cc9c46b0a5c2ced505df90c2_21.jpg 820,186,1059,512,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/b5e44b099d710a72d3f39b110683d372df82a1e7.jpg 96,19,353,146,0 703,78,870,215,0
+/data/niezl/TCT/tct_detection/tct_0513/c0e5d004a7b847bdad26987c06d3d924_148.jpg 1153,22,1337,168,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/e72967b1702f97251d2f789238ff79aee1713d08.jpg 2,946,101,1115,0
+/data/niezl/TCT/tct_detection/tct_0513/a82512f3741a4362a120cb6b7f5384c2_241.jpg 1447,1033,1587,1190,0
+/data/niezl/TCT/tct_detection/tct_0513/946e4b96b922488b88a594859d5466d6_302.jpg 1157,21,1288,245,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/c51d01dbe09b45ca868f18d10f15e8a0_208.jpg 1606,798,1729,1033,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/851e69a37cdc1f737ca54e17428aa55ecbf333ee.jpg 1302,955,1498,1119,0 258,91,410,208,0
+/data/niezl/TCT/tct_detection/tct_0513/9f85680524d04a188b7b6ddf1fadfdc2_113.jpg 998,884,1250,1104,0
+/data/niezl/TCT/tct_detection/tct_0513/3481aaf5ac7642699d3151ebdb8c8520_313.jpg 1561,719,1759,1034,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/1290cecdd8a94ee7b964996541cedda6_72.jpg 988,26,1126,147,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/5438c0687a9442fe80a090af6608693d_384.jpg 1286,568,1451,759,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/5f92299e50cb6eea26f171edf7209330a18f1f5b.jpg 1187,49,1311,107,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/e45563b85a2244c9b913aa8235466de5_451.jpg 84,920,244,1070,0
+/data/niezl/TCT/tct_detection/tct_0513/096394dcf54d4cb5b65b7f52880fda0b_278.jpg 1059,528,1199,662,0
+/data/niezl/TCT/tct_detection/tct_0513/66954d9dadea4e50bd1d2356ed2428a0_321.jpg 643,292,756,483,0
+/data/niezl/TCT/tct_detection/tct_0513/4553c570b1cf43289c7b65f651049b85_16.jpg 46,5,219,161,0 621,40,763,218,0 473,1076,637,1199,0
+/data/niezl/TCT/tct_detection/tct_0513/a138d89014764e13ae25b1e5f5d3e0ea_236.jpg 630,976,790,1145,0
+/data/niezl/TCT/tct_detection/tct_0513/572d0441fb684ac099ae2f9e1b11c12d_441.jpg 269,589,425,716,0
+/data/niezl/TCT/tct_detection/tct_0513/8fcd01d7282247cc98340748a4a210f9_33.jpg 1829,635,1899,745,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/240ad50070715722bc74d94961348f8888673cf6.jpg 1529,916,1669,1116,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/ac5db318a1f44b0f81f86ab1cca544d2_41.jpg 1822,466,1927,686,0
+/data/niezl/TCT/tct_detection/tct_0513/053c18204cd14d3b8d69f9a2d6e094f4_368.jpg 1561,499,1631,593,0
+/data/niezl/TCT/tct_detection/tct_0513/5b43d71ddbef4ceb96eea28834f15c53_109.jpg 82,390,291,627,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/cf8bb131e67e21ae10a00c33488597034e5c90b8.jpg 494,869,589,970,0
+/data/niezl/TCT/tct_detection/tct_0513/a8da6c55f89e4e26a63bf9e7b3ae59d5_49.jpg 838,7,995,190,0
+/data/niezl/TCT/tct_detection/tct_0513/4b9e3fbc37354a32858c47f370b20d0d_159.jpg 72,16,321,204,0 870,302,1265,573,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/951746fb755f21c8f6aa70577b55c127015b7808.jpg 1138,86,1267,216,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/a138d89014764e13ae25b1e5f5d3e0ea_295.jpg 1299,350,1377,466,0
+/data/niezl/TCT/tct_detection/tct_0513/253f950e291e4bdaa39c0dfd1f39bcb0_416.jpg 203,832,333,1017,0
+/data/niezl/TCT/tct_detection/tct_0513/1cb116d8bfb54c41b6a792d0308c2684_310.jpg 882,140,1018,306,0
+/data/niezl/TCT/tct_detection/tct_0513/43068ab966d647aca8ec0de49aa8b6cb_138.jpg 1011,330,1283,591,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/2f2ffa36518cb36e71e16b548804c623c1e472aa.jpg 600,324,695,414,0 1260,650,1386,771,0 803,455,943,599,0
+/data/niezl/TCT/tct_detection/tct_0513/ec0d82b238214f1f90480d91924913b5_117.jpg 573,989,831,1204,0
+/data/niezl/TCT/tct_detection/tct_0513/4335bbe5438d4705b0fc5ae13ddd9aa5_286.jpg 217,618,338,785,0
+/data/niezl/TCT/tct_detection/tct_0513/ce51da23f1f54ac48e24ea9634293011_86.jpg 162,747,274,857,0
+/data/niezl/TCT/tct_detection/tct_0513/62805a85ba8e4d19b9ad76ee5cc73bc9_466.jpg 1052,757,1153,867,0
+/data/niezl/TCT/tct_detection/tct_0513/0a5af6b5a9e446cd812291d204840c16_256.jpg 748,635,1005,894,0
+/data/niezl/TCT/tct_detection/tct_0513/096394dcf54d4cb5b65b7f52880fda0b_312.jpg 1158,226,1345,332,0
+/data/niezl/TCT/tct_detection/tct_0513/8e1f4fc6c02f45a68b1d3d4ce858f4eb_427.jpg 1183,272,1292,416,0
+/data/niezl/TCT/tct_detection/tct_0513/b57ef31f73df475fb64fd0bf0a56e93c_25.jpg 1395,823,1516,998,0
+/data/niezl/TCT/tct_detection/tct_0513/a138d89014764e13ae25b1e5f5d3e0ea_298.jpg 740,971,838,1071,0
+/data/niezl/TCT/tct_detection/tct_0513/f04f0e7c46994107b78175a0d862946c_123.jpg 497,968,589,1112,0
+/data/niezl/TCT/tct_detection/tct_0513/7587d7b1ea23403fa31c7d5c6828c6de_58.jpg 1436,738,1516,800,0
+/data/niezl/TCT/tct_detection/tct_0513/283e4c56d1424c769406058c0ec89101_281.jpg 824,866,957,1010,0
+/data/niezl/TCT/tct_detection/tct_0513/76cada6fede240f09909b648e44cf481_47.jpg 1299,177,1411,270,0
+/data/niezl/TCT/tct_detection/tct_0513/39a13a69e6164614b238b7e2fb86bed2_193.jpg 2,920,177,1167,0
+/data/niezl/TCT/tct_detection/tct_0513/1c435a8034a744a8865de6f040cc923a_1.jpg 1550,485,1612,537,0 349,348,452,460,0
+/data/niezl/TCT/tct_detection/tct_0513/7b8747978dc14587bab01790e7799dbe_268.jpg 1498,1001,1684,1155,0 1468,574,1728,738,0
+/data/niezl/TCT/tct_detection/tct_0513/60a24321adf64ad8bc8764489de24032_44.jpg 338,860,526,1076,0
+/data/niezl/TCT/tct_detection/tct_0513/bc3dc5e2ff894545b0a7ec2b330b1fca_88.jpg 456,811,682,1057,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/39caf717fa5c46c3806337cdde42a3ac_148.jpg 1434,828,1563,1007,0
+/data/niezl/TCT/tct_detection/tct_0513/3481aaf5ac7642699d3151ebdb8c8520_153.jpg 1018,512,1134,717,0
+/data/niezl/TCT/tct_detection/tct_0513/082b6820f42249dbbe5b715ad95cab3c_70.jpg 1468,289,1649,436,0
+/data/niezl/TCT/tct_detection/tct_0513/7587d7b1ea23403fa31c7d5c6828c6de_391.jpg 808,384,906,478,0
+/data/niezl/TCT/tct_detection/tct_0513/b363a210e7c04c11930b1badfaebf951_347.jpg 1263,689,1481,990,0
+/data/niezl/TCT/tct_detection/tct_0513/913cc54333864a5eb5692eeb275592a2_223.jpg 872,559,918,649,0
+/data/niezl/TCT/tct_detection/tct_0513/4b9e3fbc37354a32858c47f370b20d0d_254.jpg 1104,22,1379,248,0 567,4,697,128,0
+/data/niezl/TCT/tct_detection/tct_0513/1e88a6d4d7dc43d28928bfd53c2ba0ce_54.jpg 1599,645,1738,729,0
+/data/niezl/TCT/tct_detection/tct_0513/25d6934de9c2445989055a58217e4c2d_234.jpg 904,211,1071,343,0
+/data/niezl/TCT/tct_detection/tct_0513/a82512f3741a4362a120cb6b7f5384c2_516.jpg 1646,234,1735,389,0
+/data/niezl/TCT/tct_detection/tct_0513/62805a85ba8e4d19b9ad76ee5cc73bc9_39.jpg 1660,849,1914,1100,0
+/data/niezl/TCT/tct_detection/tct_0513/a9d78b6697354733aa3bf290b40bd5b3_248.jpg 1560,32,1843,332,0 167,441,240,601,0
+/data/niezl/TCT/tct_detection/tct_0513/ac5db318a1f44b0f81f86ab1cca544d2_9.jpg 537,28,735,204,0
+/data/niezl/TCT/tct_detection/tct_0513/7587d7b1ea23403fa31c7d5c6828c6de_139.jpg 126,10,256,145,0
+/data/niezl/TCT/tct_detection/tct_0513/bc3dc5e2ff894545b0a7ec2b330b1fca_300.jpg 764,71,993,307,0
+/data/niezl/TCT/tct_detection/tct_0513/385c1d1aa5564dbfa98a580c7fdb1b33_5.jpg 1729,607,1912,842,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/b0ab3976a7db668dc353284a145c24791f7eac34.jpg 1391,179,1435,269,0 221,102,346,271,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/b3e1cc616e837149ad8bd540ea48f4133fce702d.jpg 644,390,786,547,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/d00c8b5f3928d757be97ee2069923defc9cc0443.jpg 702,57,784,117,0 1390,940,1512,1067,0
+/data/niezl/TCT/tct_detection/tct_0513/1482934833624723aabb8003f5ec00f8_77.jpg 1685,609,1794,681,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/59f3a589997e48458fdfb3b21f809a2c_114.jpg 701,837,966,1188,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/698147bab3bc972f4bdbd8dd7232d197b4e07275.jpg 1080,401,1185,578,0
+/data/niezl/TCT/tct_detection/tct_0513/79380d7191cd41b08f384d291a4169c5_288.jpg 249,708,329,800,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/8a7fece99cc54f0cae344d21d0630f3c_336.jpg 16,809,98,893,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/e9e4bc6f34c62c236e94575da3c8b33c104c24ad.jpg 27,764,169,963,0 36,481,137,571,0 1025,1050,1121,1175,0 281,648,382,716,0
+/data/niezl/TCT/tct_detection/tct_0513/cb095185776b4a5ea527fac7f7b257d6_494.jpg 1512,785,1625,928,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/70c6f5afd0a3473876d7d87d4ef370beace5d37c.jpg 348,839,440,894,0 140,334,184,393,0 138,1130,301,1208,0 218,269,350,346,0 415,398,512,534,0
+/data/niezl/TCT/tct_detection/tct_0513/8e1f4fc6c02f45a68b1d3d4ce858f4eb_36.jpg 1632,930,1760,1037,0
+/data/niezl/TCT/tct_detection/tct_0513/dae34bb2594a41f7a7d2d4d9e5004be1_339.jpg 575,445,667,542,0 1088,453,1324,580,0
+/data/niezl/TCT/tct_detection/tct_0513/b683e9071fe14cdf849dbe51204e9272_287.jpg 53,482,235,578,0
+/data/niezl/TCT/tct_detection/tct_0513/5860121eb6d54f99924b98cc1abec137_529.jpg 561,361,733,527,0
+/data/niezl/TCT/tct_detection/tct_0513/5943e863302742fab6956192932a172e_191.jpg 157,166,338,485,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/dae9bd20f6f870b7ffd6fe6db1e9d9335ab38ff5.jpg 1700,295,1880,426,0
+/data/niezl/TCT/tct_detection/tct_0513/24f5aa7f33654cf6877b20d970ef469d_85.jpg 1451,515,1623,761,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/a5aa7e0ef65c4e2594a4de26bd33fce8_225.jpg 463,1039,623,1158,0
+/data/niezl/TCT/tct_detection/tct_0513/5f6efd30ab1342dcb09fa7cf8ae7f648_132.jpg 484,706,658,820,0
+/data/niezl/TCT/tct_detection/tct_0513/944c0e019d774b298e4c9df23bc12a08_373.jpg 185,354,485,524,0
+/data/niezl/TCT/tct_detection/tct_0513/ac5db318a1f44b0f81f86ab1cca544d2_24.jpg 247,587,441,811,0
+/data/niezl/TCT/tct_detection/tct_0513/66c2265c3cb64109b930a3263c659539_62.jpg 16,94,215,364,0
+/data/niezl/TCT/tct_detection/tct_0513/fdc0c78b43b44bc1858791f49e36f44e_47.jpg 548,167,890,462,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/88e92f4ac4f8d83d1691aaae1695c26cdff1aa05.jpg 683,296,765,371,0 357,222,473,299,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/81247338a071a417efc1831ef3c566b9d95d5ceb.jpg 1539,887,1736,1032,0 70,502,249,649,0 451,443,686,555,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/07d843c2f4fde0985024a64a6e17b7a796441f65.jpg 512,1078,587,1134,0
+/data/niezl/TCT/tct_detection/tct_0513/a8da6c55f89e4e26a63bf9e7b3ae59d5_305.jpg 576,417,920,657,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/3e2cc4ee513f4fdaaca219d127fc17d5_82.jpg 1519,355,1619,460,0
+/data/niezl/TCT/tct_detection/tct_0513/096394dcf54d4cb5b65b7f52880fda0b_20.jpg 1572,293,1695,390,0 561,632,705,755,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/cb017a52f827a14d776da534c4855ec64c33638f.jpg 1478,65,1566,210,0
+/data/niezl/TCT/tct_detection/tct_0513/5c315ddf29954ab39536a88f89a77627_422.jpg 744,395,923,586,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/6cb6210d017adc523c58f21b73cbda90da29434f.jpg 558,923,728,1068,0
+/data/niezl/TCT/tct_detection/tct_0513/7cab148cf24c4b838ca444ee66c62e28_328.jpg 852,845,945,937,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/850dd52154b07275c0a29380c27d158fd7b747e7.jpg 463,363,670,538,0
+/data/niezl/TCT/tct_detection/tct_0513/06d40c98aa124d278eb9422b2bc0d3d8_157.jpg 1731,558,1861,778,0
+/data/niezl/TCT/tct_detection/tct_0513/42b3ccd032f442f3bdeaef63e979e02b_49.jpg 400,26,643,217,0
+/data/niezl/TCT/tct_detection/tct_0513/572d0441fb684ac099ae2f9e1b11c12d_257.jpg 468,625,683,789,0
+/data/niezl/TCT/tct_detection/tct_0513/b4151a4e95fb4c18adbcb5de19e08e30_243.jpg 647,65,895,326,0
+/data/niezl/TCT/tct_detection/tct_0513/b363a210e7c04c11930b1badfaebf951_392.jpg 1263,238,1355,409,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/412a54ef477b1acf3682f01cc0d34e356fe7beaa.jpg 86,1060,262,1181,0 357,68,516,214,0
+/data/niezl/TCT/tct_detection/tct_0513/5f6efd30ab1342dcb09fa7cf8ae7f648_89.jpg 858,731,1007,850,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_474.jpg 989,141,1110,250,0 1527,65,1652,175,0 1421,267,1514,361,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/d54716340f69ed134a962158d4ef3e77447d61ec.jpg 220,587,353,689,0 134,336,213,394,0 171,793,283,966,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/b374ba6dfc002d39b90f3a438c906591d34c9705.jpg 323,836,444,934,0 992,848,1123,1004,0
+/data/niezl/TCT/tct_detection/tct_0513/7587d7b1ea23403fa31c7d5c6828c6de_51.jpg 228,151,354,263,0 1600,384,1687,441,0 1148,592,1313,713,0 1806,807,1888,896,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/6c3e9a35ba30b5fe5e1b81d0613f13ef94830d7d.jpg 1274,846,1371,881,0
+/data/niezl/TCT/tct_detection/tct_0513/053c18204cd14d3b8d69f9a2d6e094f4_472.jpg 459,463,553,617,0
+/data/niezl/TCT/tct_detection/tct_0513/bc3dc5e2ff894545b0a7ec2b330b1fca_243.jpg 514,338,622,476,0
+/data/niezl/TCT/tct_detection/tct_0513/973b63ebf7d446768a26587a183164e4_163.jpg 1119,101,1363,270,0
+/data/niezl/TCT/tct_detection/tct_0513/8f45c5479cec4a17addcba927669cd03_530.jpg 1473,900,1573,1003,0
+/data/niezl/TCT/tct_detection/tct_0513/b683e9071fe14cdf849dbe51204e9272_81.jpg 326,971,443,1074,0
+/data/niezl/TCT/tct_detection/tct_0513/5943e863302742fab6956192932a172e_405.jpg 1436,9,1927,436,0
+/data/niezl/TCT/tct_detection/tct_0513/5ce078b512bd4744ae3cef0b8a20d661_492.jpg 1419,35,1604,147,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/42f5f154050edb3a151d6e0e936e6cba8ed6c34d.jpg 721,72,1189,498,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/4f6f2f15b75049b2a65ac1dea9c06919_2.jpg 403,121,608,270,0
+/data/niezl/TCT/tct_detection/tct_0513/5c315ddf29954ab39536a88f89a77627_130.jpg 694,114,912,313,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_282.jpg 659,918,849,1110,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/1290cecdd8a94ee7b964996541cedda6_232.jpg 1698,379,1768,464,0
+/data/niezl/TCT/tct_detection/tct_0513/3151317b4a744be6889dde7044cd408f_182.jpg 722,194,929,464,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/071584f38ea728a3b3a10e2246cdb3022f31f9dd.jpg 420,285,587,536,0
+/data/niezl/TCT/tct_detection/tct_0513/b96b87cefa494eddb0a3eb7fd71e2d0b_197.jpg 517,713,653,938,0
+/data/niezl/TCT/tct_detection/tct_0513/dae34bb2594a41f7a7d2d4d9e5004be1_127.jpg 1620,643,1684,738,0 1646,210,1764,304,0
+/data/niezl/TCT/tct_detection/tct_0513/5943e863302742fab6956192932a172e_335.jpg 28,246,310,580,0
+/data/niezl/TCT/tct_detection/tct_0513/5943e863302742fab6956192932a172e_145.jpg 1513,11,1895,343,0
+/data/niezl/TCT/tct_detection/tct_0513/bc3dc5e2ff894545b0a7ec2b330b1fca_200.jpg 280,888,578,1206,0
+/data/niezl/TCT/tct_detection/tct_0513/5c4a343f28d9404abdb0e8e9b16b6538_360.jpg 1184,168,1300,256,0 1164,264,1266,341,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_94.jpg 1600,988,1920,1203,0
+/data/niezl/TCT/tct_detection/tct_0513/0a5af6b5a9e446cd812291d204840c16_26.jpg 302,754,453,915,0
+/data/niezl/TCT/tct_detection/tct_0513/082b6820f42249dbbe5b715ad95cab3c_250.jpg 123,882,295,1022,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/0ec1b04498a35c5f89838695ef09eea70dda37f7.jpg 1183,289,1234,408,0
+/data/niezl/TCT/tct_detection/tct_0513/4ca5258925e8471294d607a6aedea040_4.jpg 1442,37,1804,396,0 917,945,1274,1187,0
+/data/niezl/TCT/tct_detection/tct_0513/8e1f4fc6c02f45a68b1d3d4ce858f4eb_65.jpg 1824,464,1895,555,0
+/data/niezl/TCT/tct_detection/tct_0513/7be1b21c5f194ad4b2c83618cc8d387c_162.jpg 446,32,601,177,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/0d04121fe482b6f46e4d4e6e6998723b13e5a4d8.jpg 1308,888,1463,1051,0
+/data/niezl/TCT/tct_detection/tct_0513/4553c570b1cf43289c7b65f651049b85_82.jpg 1612,503,1715,661,0
+/data/niezl/TCT/tct_detection/tct_0513/5d3bbe01ab334b329ea5d2fe729defe5_102.jpg 638,649,834,783,0
+/data/niezl/TCT/tct_detection/tct_0513/5ce078b512bd4744ae3cef0b8a20d661_357.jpg 37,116,423,578,0
+/data/niezl/TCT/tct_detection/tct_0513/7be1b21c5f194ad4b2c83618cc8d387c_105.jpg 1498,916,1632,1156,0
+/data/niezl/TCT/tct_detection/tct_0513/a50902121c9f40acb43d37f1f034f85c_464.jpg 198,661,470,846,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/b7e3f72ab47e385cb00a345d7be5e21022c73456.jpg 293,894,365,1072,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/b683e9071fe14cdf849dbe51204e9272_10.jpg 1503,569,1633,708,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/de91d0e4ae86e5c5c033648123ef7becae10d8fd.jpg 20,15,433,450,0
+/data/niezl/TCT/tct_detection/tct_0513/4a4469b6a47142b9a230f16d4b139ccb_159.jpg 267,800,545,1031,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/0ae67986288646ddb15b7b85c7e5cd5b_147.jpg 1036,868,1289,1052,0
+/data/niezl/TCT/tct_detection/tct_0513/6d00a9ca5c3248db93e2f72937fb683c_516.jpg 497,218,641,302,0
+/data/niezl/TCT/tct_detection/tct_0513/62805a85ba8e4d19b9ad76ee5cc73bc9_521.jpg 759,705,968,852,0 522,272,619,408,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/98600e5c2ed03410f12e66339297306012cba773.jpg 740,719,834,773,0 854,954,996,1132,0 899,970,1008,1115,0
+/data/niezl/TCT/tct_detection/tct_0513/082b6820f42249dbbe5b715ad95cab3c_148.jpg 401,589,645,865,0
+/data/niezl/TCT/tct_detection/tct_0513/9132df77d68e48b4963824c50d515467_136.jpg 1367,713,1563,909,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/89594a23544439e4699860d978fe6d36ae7d558b.jpg 362,382,490,636,0 315,306,534,647,0
+/data/niezl/TCT/tct_detection/tct_0513/7587d7b1ea23403fa31c7d5c6828c6de_199.jpg 78,498,260,615,0 176,407,267,489,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/62880dac07f418f7d12fcfcd08ceb39f10ccc650.jpg 833,1063,1036,1163,0 957,1077,1050,1173,0
+/data/niezl/TCT/tct_detection/tct_0513/4553c570b1cf43289c7b65f651049b85_13.jpg 1336,923,1441,1039,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/cc2147997c4e7ff4bc82603283a9699d7b79f4a1.jpg 663,717,767,808,0 604,667,801,825,0
+/data/niezl/TCT/tct_detection/tct_0513/0a5af6b5a9e446cd812291d204840c16_419.jpg 1074,838,1283,1064,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/de244fa0d7271460d20cb1b96a37c1dc86131df9.jpg 1503,8,1588,114,0
+/data/niezl/TCT/tct_detection/tct_0513/e45563b85a2244c9b913aa8235466de5_417.jpg 91,161,194,312,0
+/data/niezl/TCT/tct_detection/tct_0513/fa05d1888dce4a2c8e41179af4920280_28.jpg 482,839,644,1023,0
+/data/niezl/TCT/tct_detection/tct_0513/81d0dc432f464d3eb6551044e51403d5_82.jpg 1397,1069,1498,1207,0
+/data/niezl/TCT/tct_detection/tct_0513/946e4b96b922488b88a594859d5466d6_424.jpg 443,291,525,371,0
+/data/niezl/TCT/tct_detection/tct_0513/5943e863302742fab6956192932a172e_198.jpg 940,310,1285,962,0
+/data/niezl/TCT/tct_detection/tct_0513/7be1b21c5f194ad4b2c83618cc8d387c_88.jpg 1656,436,1779,677,0
+/data/niezl/TCT/tct_detection/tct_0513/4553c570b1cf43289c7b65f651049b85_229.jpg 941,65,1057,179,0 484,496,658,768,0 954,982,1119,1097,0
+/data/niezl/TCT/tct_detection/tct_0513/3151317b4a744be6889dde7044cd408f_399.jpg 1089,326,1274,604,0
+/data/niezl/TCT/tct_detection/tct_0513/a5aa7e0ef65c4e2594a4de26bd33fce8_335.jpg 886,982,1057,1170,0
+/data/niezl/TCT/tct_detection/tct_0513/1482934833624723aabb8003f5ec00f8_343.jpg 166,527,273,593,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/053c18204cd14d3b8d69f9a2d6e094f4_8.jpg 1731,40,1769,106,0
+/data/niezl/TCT/tct_detection/tct_0513/4f6f2f15b75049b2a65ac1dea9c06919_25.jpg 43,774,237,1108,0
+/data/niezl/TCT/tct_detection/tct_0513/3481aaf5ac7642699d3151ebdb8c8520_52.jpg 1225,128,1406,415,0
+/data/niezl/TCT/tct_detection/tct_0513/bc3dc5e2ff894545b0a7ec2b330b1fca_227.jpg 341,834,980,1199,0
+/data/niezl/TCT/tct_detection/tct_0513/385c1d1aa5564dbfa98a580c7fdb1b33_368.jpg 992,74,1216,238,0
+/data/niezl/TCT/tct_detection/tct_0513/59f3a589997e48458fdfb3b21f809a2c_64.jpg 131,865,352,1030,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/865a30f1936340189465eb5260c02784_299.jpg 1774,504,1932,712,0 1577,394,1763,594,0
+/data/niezl/TCT/tct_detection/tct_0513/5abcd698eb624446aa8db6348c88ca26_43.jpg 1341,707,1488,979,0
+/data/niezl/TCT/tct_detection/tct_0513/5943e863302742fab6956192932a172e_67.jpg 1009,22,1309,403,0 4,162,220,785,0
+/data/niezl/TCT/tct_detection/tct_0513/7587d7b1ea23403fa31c7d5c6828c6de_159.jpg 400,58,539,218,0
+/data/niezl/TCT/tct_detection/tct_0513/66c2265c3cb64109b930a3263c659539_63.jpg 1541,416,1701,569,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/8a7fece99cc54f0cae344d21d0630f3c_8.jpg 1299,124,1370,236,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/92c8d54d20ba47168f2967ef040232c8_146.jpg 1449,1019,1591,1174,0
+/data/niezl/TCT/tct_detection/tct_0513/a8da6c55f89e4e26a63bf9e7b3ae59d5_430.jpg 842,842,1138,1165,0
+/data/niezl/TCT/tct_detection/tct_0513/b363a210e7c04c11930b1badfaebf951_341.jpg 1828,22,1926,310,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/9c3af75afd2df3a3ad60d6bfeceb5b361fd20817.jpg 1842,150,1923,219,0
+/data/niezl/TCT/tct_detection/tct_0513/66c2265c3cb64109b930a3263c659539_97.jpg 1306,768,1443,955,0 842,197,1021,403,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/5d3bbe01ab334b329ea5d2fe729defe5_503.jpg 701,705,895,953,0
+/data/niezl/TCT/tct_detection/tct_0513/22d3bdcf40ab489bbbed0b35c4b4b044_152.jpg 84,352,176,423,0
+/data/niezl/TCT/tct_detection/tct_0513/082b6820f42249dbbe5b715ad95cab3c_393.jpg 869,17,979,257,0 1005,339,1171,561,0
+/data/niezl/TCT/tct_detection/tct_0513/320566ffc82a4c37af1c5cee261905b1_352.jpg 449,1010,584,1192,0
+/data/niezl/TCT/tct_detection/tct_0513/5c315ddf29954ab39536a88f89a77627_238.jpg 1100,526,1250,696,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/a2a66c5163b0ebba833742acdd73b91f683f4517.jpg 1114,26,1397,321,0
+/data/niezl/TCT/tct_detection/tct_0513/3886a6625aaa43b38bbeb429c44e7640_516.jpg 1427,777,1551,876,0 1577,966,1637,1040,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/865a30f1936340189465eb5260c02784_380.jpg 1038,381,1211,539,0
+/data/niezl/TCT/tct_detection/tct_0513/5438c0687a9442fe80a090af6608693d_60.jpg 379,420,608,587,0
+/data/niezl/TCT/tct_detection/tct_0513/fa05d1888dce4a2c8e41179af4920280_12.jpg 950,1054,1165,1133,0 234,1100,350,1205,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/76cada6fede240f09909b648e44cf481_179.jpg 349,122,450,236,0
+/data/niezl/TCT/tct_detection/tct_0513/63d00298be9744568157d22bc3d1b050_480.jpg 1610,11,1912,112,0 677,633,830,804,0
+/data/niezl/TCT/tct_detection/tct_0513/a8da6c55f89e4e26a63bf9e7b3ae59d5_169.jpg 17,14,205,371,0
+/data/niezl/TCT/tct_detection/tct_0513/7be1b21c5f194ad4b2c83618cc8d387c_82.jpg 1386,32,1455,147,0 4,198,114,369,0 597,998,714,1141,0
+/data/niezl/TCT/tct_detection/tct_0513/973b63ebf7d446768a26587a183164e4_376.jpg 1130,47,1322,198,0
+/data/niezl/TCT/tct_detection/tct_0513/b363a210e7c04c11930b1badfaebf951_322.jpg 1337,403,1754,683,0 695,573,856,699,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/ac5db318a1f44b0f81f86ab1cca544d2_115.jpg 224,46,411,361,0
+/data/niezl/TCT/tct_detection/tct_0513/5f6efd30ab1342dcb09fa7cf8ae7f648_92.jpg 582,147,747,266,0
+/data/niezl/TCT/tct_detection/tct_0513/6598a77d247f4f2e8c18b8f2ed32f2d1_57.jpg 1199,173,1354,379,0
+/data/niezl/TCT/tct_detection/tct_0513/e0a40771515341c7afa9a7945feaa13d_127.jpg 425,74,526,225,0
+/data/niezl/TCT/tct_detection/tct_0513/4b9e3fbc37354a32858c47f370b20d0d_402.jpg 1595,675,1910,902,0
+/data/niezl/TCT/tct_detection/tct_0513/6d5645fe3d3d4148a627f8adcb2f1436_302.jpg 725,1094,882,1164,0
+/data/niezl/TCT/tct_detection/tct_0513/4ca5258925e8471294d607a6aedea040_246.jpg 353,59,473,202,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/14d6929bc097d46d9d8d0672bf6f7a9211cbc26d.jpg 625,936,715,1113,0 1127,1020,1252,1105,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_510.jpg 1167,820,1295,954,0 1397,936,1752,1114,0
+/data/niezl/TCT/tct_detection/tct_0513/a50902121c9f40acb43d37f1f034f85c_257.jpg 934,572,1059,790,0
+/data/niezl/TCT/tct_detection/tct_0513/5438c0687a9442fe80a090af6608693d_93.jpg 320,292,440,509,0
+/data/niezl/TCT/tct_detection/tct_0513/2c8b7c89010a4e98a4386e65a3119234_218.jpg 636,210,732,299,0
+/data/niezl/TCT/tct_detection/tct_0513/3fc72122cd384645bec7453a7902c7b9_137.jpg 368,944,482,1033,0
+/data/niezl/TCT/tct_detection/tct_0513/bcef3014a6984cc7a5720e9f3d8ec43c_469.jpg 64,273,170,396,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/09476e14b0e29ce6a05293636bf010a3e7575769.jpg 1154,461,1261,525,0
+/data/niezl/TCT/tct_detection/tct_0513/adff8309d911422b8badd3480074232f_331.jpg 23,498,148,603,0
+/data/niezl/TCT/tct_detection/tct_0513/c9006d2c3ab54de4bd53069ebd084604_307.jpg 1481,20,1886,259,0
+/data/niezl/TCT/tct_detection/tct_0513/5943e863302742fab6956192932a172e_78.jpg 634,425,1018,880,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/dd69e2d7b27a91ce2698070042917ddf476292a9.jpg 825,370,928,540,0
+/data/niezl/TCT/tct_detection/tct_0513/ac5db318a1f44b0f81f86ab1cca544d2_40.jpg 256,279,555,485,0 1564,473,1909,1030,0 302,309,485,426,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/c8fe442673af17dd8fb731ac06fb4c5c05d269a4.jpg 1177,802,1246,908,0 46,487,110,639,0
+/data/niezl/TCT/tct_detection/tct_0513/25d6934de9c2445989055a58217e4c2d_8.jpg 571,747,708,868,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/96f60545493f273b706a21a44e0f0d66e9b79864.jpg 197,453,347,558,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/c386ca18f57d485da07b76057d75be76_192.jpg 639,861,715,976,0
+/data/niezl/TCT/tct_detection/tct_0513/ff500f6546584bdb9ec6aaaf635dfd14_24.jpg 994,891,1105,990,0
+/data/niezl/TCT/tct_detection/tct_0513/385c1d1aa5564dbfa98a580c7fdb1b33_167.jpg 407,23,627,340,0 701,663,977,892,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/5a862f127bf74d95a4b049a4a4d7b300_277.jpg 142,302,280,517,0
+/data/niezl/TCT/tct_detection/tct_0513/b363a210e7c04c11930b1badfaebf951_310.jpg 1411,112,1810,487,0
+/data/niezl/TCT/tct_detection/tct_0513/7b8747978dc14587bab01790e7799dbe_411.jpg 1404,773,1553,933,0
+/data/niezl/TCT/tct_detection/tct_0513/ace6d51ba7e4413a8224e979622e7ff7_207.jpg 603,147,731,266,0
+/data/niezl/TCT/tct_detection/tct_0513/7be1b21c5f194ad4b2c83618cc8d387c_43.jpg 39,274,164,403,0
+/data/niezl/TCT/tct_detection/tct_0513/3789fff0c4484d8b9519d307d74e7437_99.jpg 308,382,429,500,0
+/data/niezl/TCT/tct_detection/tct_0513/24f5aa7f33654cf6877b20d970ef469d_437.jpg 1095,194,1330,423,0
+/data/niezl/TCT/tct_detection/tct_0513/5f6efd30ab1342dcb09fa7cf8ae7f648_87.jpg 379,661,491,752,0
+/data/niezl/TCT/tct_detection/tct_0513/2c8b7c89010a4e98a4386e65a3119234_22.jpg 1432,669,1684,846,0
+/data/niezl/TCT/tct_detection/tct_0513/1eb498576ab74536ac268644046e1d22_45.jpg 390,30,454,113,0
+/data/niezl/TCT/tct_detection/tct_0513/7afbb0eebd724841b925d53fcf2b3e84_423.jpg 1550,108,1699,206,0
+/data/niezl/TCT/tct_detection/tct_0513/3481aaf5ac7642699d3151ebdb8c8520_41.jpg 138,90,341,245,0 1598,378,1927,831,0
+/data/niezl/TCT/tct_detection/tct_0513/b96b87cefa494eddb0a3eb7fd71e2d0b_419.jpg 661,20,988,346,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/431feb13719f10659be73fd71fea4760baf28ad7.jpg 757,575,902,655,0
+/data/niezl/TCT/tct_detection/tct_0513/f9d88195cbb044df8f84e146e0c3c6f0_339.jpg 306,503,511,813,0
+/data/niezl/TCT/tct_detection/tct_0513/ac658d83c94a4251bbb02f1070fa9ecb_368.jpg 761,128,890,281,0
+/data/niezl/TCT/tct_detection/tct_0513/0bbafcda52b64433984ac73ba4defff5_26.jpg 452,49,676,240,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/c76ecc6c1b454c1d98acd5eea48ee766_445.jpg 1225,106,1335,226,0
+/data/niezl/TCT/tct_detection/tct_0513/3481aaf5ac7642699d3151ebdb8c8520_202.jpg 168,572,386,818,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/550c3d3fc11f16a415e3c5c94250c02510e6e3cf.jpg 1233,395,1576,798,0
+/data/niezl/TCT/tct_detection/tct_0513/f6fd8d4b596b41549ec37d63930702a9_402.jpg 315,507,453,681,0
+/data/niezl/TCT/tct_detection/tct_0513/096394dcf54d4cb5b65b7f52880fda0b_528.jpg 13,569,203,806,0
+/data/niezl/TCT/tct_detection/tct_0513/bc3dc5e2ff894545b0a7ec2b330b1fca_120.jpg 57,574,145,723,0
+/data/niezl/TCT/tct_detection/tct_0513/903611c9ef13488aaa96cfe745edfb2f_13.jpg 905,144,1093,379,0
+/data/niezl/TCT/tct_detection/tct_0513/fc71b18c13a44fb3b9b7226dfad8416f_93.jpg 7,137,367,822,0
+/data/niezl/TCT/tct_detection/tct_0513/096394dcf54d4cb5b65b7f52880fda0b_11.jpg 326,785,444,975,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/0e083cda4be34ec88315ce44bd2b332ba05b2893.jpg 135,440,538,783,0
+/data/niezl/TCT/tct_detection/tct_0513/4553c570b1cf43289c7b65f651049b85_92.jpg 550,795,724,992,0
+/data/niezl/TCT/tct_detection/tct_0513/572d0441fb684ac099ae2f9e1b11c12d_172.jpg 1343,576,1501,785,0
+/data/niezl/TCT/tct_detection/tct_0513/e45563b85a2244c9b913aa8235466de5_390.jpg 720,814,899,1025,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/a15b39c9304be30aebbb8d9ff797f07c911f0173.jpg 981,349,1109,452,0
+/data/niezl/TCT/tct_detection/tct_0513/0a5af6b5a9e446cd812291d204840c16_30.jpg 561,458,690,613,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/5438c0687a9442fe80a090af6608693d_448.jpg 1350,229,1576,462,0
+/data/niezl/TCT/tct_detection/tct_0513/5943e863302742fab6956192932a172e_147.jpg 382,604,511,742,0
+/data/niezl/TCT/tct_detection/tct_0513/3789fff0c4484d8b9519d307d74e7437_444.jpg 1406,793,1563,957,0
+/data/niezl/TCT/tct_detection/tct_0513/5b43d71ddbef4ceb96eea28834f15c53_431.jpg 192,791,379,1080,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/cc7f190ad9bd5448a6f9b6cbcf64fa3f494f12f8.jpg 1328,883,1599,1105,0
+/data/niezl/TCT/tct_detection/tct_0513/973b63ebf7d446768a26587a183164e4_385.jpg 565,384,776,677,0
+/data/niezl/TCT/tct_detection/tct_0513/e45563b85a2244c9b913aa8235466de5_237.jpg 750,40,918,238,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/3173b59202226b7bbcc38b97e5aa65244368d847.jpg 16,136,182,323,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/c386ca18f57d485da07b76057d75be76_226.jpg 913,177,1066,316,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/7d67a08186f911db081e3eff83a0f2178eae0d5f.jpg 1183,886,1471,1068,0 1179,29,1257,132,0
+/data/niezl/TCT/tct_detection/tct_0513/b683e9071fe14cdf849dbe51204e9272_316.jpg 1468,695,1582,813,0
+/data/niezl/TCT/tct_detection/tct_0513/3481aaf5ac7642699d3151ebdb8c8520_27.jpg 54,1010,224,1174,0
+/data/niezl/TCT/tct_detection/tct_0513/705b37e1daf64560b132a8d73c8ae290_242.jpg 358,332,459,476,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/e841a6499c5bc848bf0abd8bfe4523d871f19047.jpg 313,958,413,1036,0 226,188,278,239,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/1cb116d8bfb54c41b6a792d0308c2684_398.jpg 722,170,1000,425,0
+/data/niezl/TCT/tct_detection/tct_0513/73a14d6772b7496a9abf7c8c151d911e_211.jpg 427,737,694,970,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/f0b15c6a6197f1d25f1da73b7c44ec713bb89b84.jpg 493,504,578,616,0 59,78,135,152,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/862c8b5b941a2198e97d188ee854b0e99cb5f692.jpg 116,214,216,286,0 661,216,770,411,0
+/data/niezl/TCT/tct_detection/tct_0513/532428435ef141359661591196039beb_398.jpg 721,22,1024,168,0
+/data/niezl/TCT/tct_detection/tct_0513/5f6efd30ab1342dcb09fa7cf8ae7f648_289.jpg 1110,1053,1226,1142,0
+/data/niezl/TCT/tct_detection/tct_0513/bf52fb057b9847e48dc1f665fb0d123a_229.jpg 466,21,694,220,0
+/data/niezl/TCT/tct_detection/tct_0513/cb095185776b4a5ea527fac7f7b257d6_40.jpg 309,636,429,761,0
+/data/niezl/TCT/tct_detection/tct_0513/9b465ecd4034419aa6984ffe38118590_205.jpg 1091,723,1246,988,0
+/data/niezl/TCT/tct_detection/tct_0513/8f74253f74fb42b88e9ed1a6fa6de5ba_179.jpg 918,1003,1093,1192,0
+/data/niezl/TCT/tct_detection/tct_0513/7cab148cf24c4b838ca444ee66c62e28_316.jpg 824,156,915,247,0
+/data/niezl/TCT/tct_detection/tct_0513/532428435ef141359661591196039beb_397.jpg 44,308,138,403,0 652,222,963,697,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/9d03f0d67e469a6a6cc61f7330ca0f79bcfcca94.jpg 1188,75,1338,308,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/c1dfb8ad371240c48ac7efd19d884aac_29.jpg 1160,405,1235,489,0
+/data/niezl/TCT/tct_detection/tct_0513/4c4e97a8308344bea40f2e489c105463_378.jpg 694,202,886,424,0
+/data/niezl/TCT/tct_detection/tct_0513/c0e5d004a7b847bdad26987c06d3d924_177.jpg 354,410,556,595,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/c1dfb8ad371240c48ac7efd19d884aac_151.jpg 1858,918,1929,1042,0
+/data/niezl/TCT/tct_detection/tct_0513/3fc6ee3d0bd54eedb65c45628fbc93c6_3.jpg 351,73,623,341,0
+/data/niezl/TCT/tct_detection/tct_0513/63f36c190d99497186164a90def49a42_369.jpg 808,421,943,571,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/e02cc0717aae09769ac489aa16a9da1922aab0fe.jpg 1288,68,1403,203,0
+/data/niezl/TCT/tct_detection/tct_0513/5f6efd30ab1342dcb09fa7cf8ae7f648_381.jpg 1655,1021,1744,1151,0
+/data/niezl/TCT/tct_detection/tct_0513/7be1b21c5f194ad4b2c83618cc8d387c_264.jpg 287,710,433,876,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/1290cecdd8a94ee7b964996541cedda6_11.jpg 1036,94,1143,248,0
+/data/niezl/TCT/tct_detection/tct_0513/050667955b17452383eb6323bb39a4ae_251.jpg 639,267,715,358,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/8fcd01d7282247cc98340748a4a210f9_208.jpg 957,26,1064,177,0
+/data/niezl/TCT/tct_detection/tct_0513/ac62b942202b40f99675382b6076a231_98.jpg 60,51,185,167,0 282,857,448,1010,0
+/data/niezl/TCT/tct_detection/tct_0513/b96b87cefa494eddb0a3eb7fd71e2d0b_530.jpg 1730,655,1872,835,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/48b48a573a62c3a4c0586d232056956396f1ac4e.jpg 1444,1108,1540,1204,0 648,909,706,1050,0
+/data/niezl/TCT/tct_detection/tct_0513/ac62b942202b40f99675382b6076a231_27.jpg 336,243,528,428,0
+/data/niezl/TCT/tct_detection/tct_0513/944c0e019d774b298e4c9df23bc12a08_300.jpg 162,429,321,563,0
+/data/niezl/TCT/tct_detection/tct_0513/096394dcf54d4cb5b65b7f52880fda0b_4.jpg 1744,336,1897,515,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/fcc04e9a3a3afa7049c5862eb537551176868e1a.jpg 246,890,312,983,0 387,499,432,552,0 750,543,813,628,0 321,451,437,562,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/5b0937dc2f0b4205b5175308619df39a_501.jpg 1507,520,1621,658,0
+/data/niezl/TCT/tct_detection/tct_0513/bec0d88744ae443dbe25fc8e813613a0_141.jpg 666,218,875,436,0
+/data/niezl/TCT/tct_detection/tct_0513/050667955b17452383eb6323bb39a4ae_10.jpg 973,119,1071,210,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/c8903d68f64dd3f2519a37b18e833a9c91595a86.jpg 714,300,859,483,0
+/data/niezl/TCT/tct_detection/tct_0513/a64eb199123045c8891530dba45df589_155.jpg 172,15,358,198,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/b683e9071fe14cdf849dbe51204e9272_332.jpg 1073,1037,1189,1149,0 1276,1042,1429,1147,0
+/data/niezl/TCT/tct_detection/tct_0513/a35fa6fff505407e82c20a4b15d22b5c_255.jpg 1826,14,1931,177,0
+/data/niezl/TCT/tct_detection/tct_0513/22d73fa47c8a4cdcae60367760e37ca3_104.jpg 913,119,1034,254,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/9956a60fd94bf3011132ae0d32fd6dcedabd3638.jpg 705,1116,837,1193,0 617,715,681,767,0 36,162,84,220,0
+/data/niezl/TCT/tct_detection/tct_0513/06829c3658de41c2b792b08d39c4453c_146.jpg 1227,904,1421,1146,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/5b66ac89f2ca9738b4341910eff0a3f8008a81be.jpg 87,830,260,1035,0 60,344,187,513,0
+/data/niezl/TCT/tct_detection/tct_0513/bcef3014a6984cc7a5720e9f3d8ec43c_238.jpg 240,9,337,156,0
+/data/niezl/TCT/tct_detection/tct_0513/7f7768d53c81442fbed13281af3032c1_99.jpg 527,633,678,891,0
+/data/niezl/TCT/tct_detection/tct_0513/5943e863302742fab6956192932a172e_116.jpg 218,561,586,811,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/385c1d1aa5564dbfa98a580c7fdb1b33_395.jpg 1309,611,1507,762,0
+/data/niezl/TCT/tct_detection/tct_0513/5c4a343f28d9404abdb0e8e9b16b6538_270.jpg 1690,781,1806,875,0
+/data/niezl/TCT/tct_detection/tct_0513/3789fff0c4484d8b9519d307d74e7437_32.jpg 315,752,451,856,0
+/data/niezl/TCT/tct_detection/tct_0513/b4151a4e95fb4c18adbcb5de19e08e30_164.jpg 427,332,595,494,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/153902b723d11a15c4d75aee2bedf0c581a9b58e.jpg 193,1051,314,1187,0 641,290,755,430,0 855,591,903,643,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_355.jpg 606,202,733,366,0
+/data/niezl/TCT/tct_detection/tct_0513/8322c6040d8a478d8f77a4cdc6575802_454.jpg 1578,990,1672,1150,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/956f963d524252e1c747481cd6352e8133418edf.jpg 1369,188,1509,274,0
+/data/niezl/TCT/tct_detection/tct_0513/63d00298be9744568157d22bc3d1b050_229.jpg 1557,195,1805,418,0
+/data/niezl/TCT/tct_detection/tct_0513/913cc54333864a5eb5692eeb275592a2_29.jpg 363,499,443,577,0
+/data/niezl/TCT/tct_detection/tct_0513/4553c570b1cf43289c7b65f651049b85_49.jpg 1409,243,1603,391,0
+/data/niezl/TCT/tct_detection/tct_0513/3886a6625aaa43b38bbeb429c44e7640_82.jpg 1667,431,1774,503,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/ac62b942202b40f99675382b6076a231_469.jpg 17,453,106,614,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/61e4ab4635c35e7de0111a5f6bc363f076a6265d.jpg 886,787,1039,865,0 1164,912,1263,966,0 493,1098,562,1152,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/782e74ef2678ebea1ccc4c74ebef8b5fb5ad48b6.jpg 646,206,755,314,0 1373,748,1428,828,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/e0190e222d3efcf1f10e3a2641d7bec0bcd52ea5.jpg 957,471,1164,666,0 14,182,163,341,0 1649,649,1702,771,0
+/data/niezl/TCT/tct_detection/tct_0513/a8da6c55f89e4e26a63bf9e7b3ae59d5_359.jpg 995,227,1300,589,0
+/data/niezl/TCT/tct_detection/tct_0513/a8da6c55f89e4e26a63bf9e7b3ae59d5_100.jpg 256,16,425,151,0
+/data/niezl/TCT/tct_detection/tct_0513/63d00298be9744568157d22bc3d1b050_189.jpg 863,968,1049,1128,0
+/data/niezl/TCT/tct_detection/tct_0513/0297c42e08c04b2f845b92e10f54e445_450.jpg 5,33,196,228,0
+/data/niezl/TCT/tct_detection/tct_0513/76cada6fede240f09909b648e44cf481_516.jpg 1454,608,1527,702,0
+/data/niezl/TCT/tct_detection/tct_0513/66c2265c3cb64109b930a3263c659539_38.jpg 1411,270,1507,377,0
+/data/niezl/TCT/tct_detection/tct_0513/7587d7b1ea23403fa31c7d5c6828c6de_382.jpg 603,56,788,147,0
+/data/niezl/TCT/tct_detection/tct_0513/946e4b96b922488b88a594859d5466d6_85.jpg 1740,247,1826,327,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/ba8a5cdcb052992dfcd288ea1e6c1d7ed59a7672.jpg 86,421,209,506,0
+/data/niezl/TCT/tct_detection/tct_0513/096394dcf54d4cb5b65b7f52880fda0b_21.jpg 1505,645,1705,871,0 1697,254,1807,401,0
+/data/niezl/TCT/tct_detection/tct_0513/e45563b85a2244c9b913aa8235466de5_548.jpg 349,937,500,1163,0
+/data/niezl/TCT/tct_detection/tct_0513/7cab148cf24c4b838ca444ee66c62e28_316.jpg 441,307,509,416,0
+/data/niezl/TCT/tct_detection/tct_0513/edb96b254da743fd8cba4c42851ac1ec_511.jpg 578,852,673,957,0
+/data/niezl/TCT/tct_detection/tct_0513/1c435a8034a744a8865de6f040cc923a_92.jpg 306,512,445,640,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/5b299f2f06fe492bb2c2bea73db0de04_327.jpg 722,675,1054,884,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/1cb116d8bfb54c41b6a792d0308c2684_110.jpg 1503,170,1841,541,0
+/data/niezl/TCT/tct_detection/tct_0513/66c2265c3cb64109b930a3263c659539_334.jpg 758,181,918,419,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/2871c3ca5e5f406d9d42b2c338704944_468.jpg 19,461,250,677,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/8bc061f52c6bce4072e4842c0c775567ea1af657.jpg 1044,619,1291,874,0
+/data/niezl/TCT/tct_detection/tct_0513/1482934833624723aabb8003f5ec00f8_142.jpg 234,996,409,1144,0
+/data/niezl/TCT/tct_detection/tct_0513/a8da6c55f89e4e26a63bf9e7b3ae59d5_114.jpg 1248,9,1515,316,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/bfabdd739f4091b0a3863381c0d184026e52493e.jpg 406,578,509,743,0 1002,755,1124,862,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/37450bb81e6ca8a1f70141c6d1c97f182bb61b54.jpg 1385,680,1679,1159,0 1071,154,1240,355,0
+/data/niezl/TCT/tct_detection/tct_0513/42b3ccd032f442f3bdeaef63e979e02b_122.jpg 1712,398,1903,507,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/db34e3733351dc31785d39a0677d44aec3f69dac.jpg 686,1021,776,1102,0 407,276,535,320,0
+/data/niezl/TCT/tct_detection/tct_0513/92c8d54d20ba47168f2967ef040232c8_8.jpg 1199,1066,1291,1185,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/0ae67986288646ddb15b7b85c7e5cd5b_307.jpg 1225,1008,1283,1080,0
+/data/niezl/TCT/tct_detection/tct_0513/06829c3658de41c2b792b08d39c4453c_167.jpg 1225,934,1657,1210,0
+/data/niezl/TCT/tct_detection/tct_0513/bf8adc763f3b40288e3963c7fd96251a_224.jpg 401,20,575,198,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/c51d01dbe09b45ca868f18d10f15e8a0_313.jpg 1399,759,1669,1192,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_105.jpg 1190,342,1595,621,0 1382,902,1700,1076,0 703,109,943,340,0 902,939,1213,1147,0
+/data/niezl/TCT/tct_detection/tct_0513/9132df77d68e48b4963824c50d515467_106.jpg 1626,1029,1755,1163,0
+/data/niezl/TCT/tct_detection/tct_0513/bcef3014a6984cc7a5720e9f3d8ec43c_31.jpg 480,484,543,572,0
+/data/niezl/TCT/tct_detection/tct_0513/2ec8653446a9406c9b45693d8c91caf9_92.jpg 272,14,557,236,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/9fa396fe655f99d2c758bf007a720708c7e512c0.jpg 284,931,381,1066,0 739,472,853,641,0 1214,901,1253,953,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/4761440939bf20e33658549f548f88a0decad6f2.jpg 914,222,1002,316,0
+/data/niezl/TCT/tct_detection/tct_0513/a9d78b6697354733aa3bf290b40bd5b3_192.jpg 770,130,987,309,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/a47c42bdeeeb6e1ee3c483f390e736d67d62e5f2.jpg 1235,402,1280,470,0
+/data/niezl/TCT/tct_detection/tct_0513/532428435ef141359661591196039beb_402.jpg 667,1068,962,1184,0
+/data/niezl/TCT/tct_detection/tct_0513/b96b87cefa494eddb0a3eb7fd71e2d0b_493.jpg 1403,745,1621,946,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/d85110a89b881d986811ba01681eb8027622fafd.jpg 1090,323,1230,434,0 418,348,470,395,0 221,166,309,233,0
+/data/niezl/TCT/tct_detection/tct_0513/7be1b21c5f194ad4b2c83618cc8d387c_192.jpg 1673,960,1912,1195,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/8ec39d17dd8a447d851fb123653ecd34_454.jpg 1056,108,1255,474,0
+/data/niezl/TCT/tct_detection/tct_0513/9f78ae6c3c43434c88c14b6d50960e75_54.jpg 1543,206,1685,336,0
+/data/niezl/TCT/tct_detection/tct_0513/9b465ecd4034419aa6984ffe38118590_350.jpg 1693,99,1910,583,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/810f0fcbe01496cd64c5e92fc31a8268736df323.jpg 1240,550,1411,649,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/45744362c5c361cf2b1dd101e544997da5d52f0e.jpg 1035,325,1092,367,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/4f411e19fb646954ef846ad885be7cf2b45c67fc.jpg 1206,503,1298,603,0
+/data/niezl/TCT/tct_detection/tct_0513/572d0441fb684ac099ae2f9e1b11c12d_59.jpg 940,0,1130,127,0 806,608,921,748,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/39caf717fa5c46c3806337cdde42a3ac_298.jpg 448,727,642,916,0
+/data/niezl/TCT/tct_detection/tct_0513/d773e50ab82c45dfba1f6af6a296dc6e_385.jpg 411,156,630,364,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/81bab404079062ed334eb824327a3803146008a2.jpg 1316,835,1452,979,0
+/data/niezl/TCT/tct_detection/tct_0513/c9006d2c3ab54de4bd53069ebd084604_272.jpg 1722,18,1910,252,0
+/data/niezl/TCT/tct_detection/tct_0513/bc3dc5e2ff894545b0a7ec2b330b1fca_271.jpg 794,689,987,1003,0
+/data/niezl/TCT/tct_detection/tct_0513/25d6934de9c2445989055a58217e4c2d_125.jpg 219,345,363,437,0
+/data/niezl/TCT/tct_detection/tct_0513/532428435ef141359661591196039beb_254.jpg 1158,962,1347,1178,0
+/data/niezl/TCT/tct_detection/tct_0513/594b835c56a54b749e5f66e7e6d7f97d_181.jpg 1649,809,1750,922,0
+/data/niezl/TCT/tct_detection/tct_0513/5943e863302742fab6956192932a172e_6.jpg 1084,43,1274,328,0 153,630,459,869,0
+/data/niezl/TCT/tct_detection/tct_0513/d773e50ab82c45dfba1f6af6a296dc6e_37.jpg 1550,272,1651,364,0
+/data/niezl/TCT/tct_detection/tct_0513/2e260b19648d4e0a991fb4b19e9bd1f9_3.jpg 1632,1001,1742,1176,0
+/data/niezl/TCT/tct_detection/tct_0513/7587d7b1ea23403fa31c7d5c6828c6de_13.jpg 500,522,568,645,0 542,430,620,512,0 466,299,573,397,0
+/data/niezl/TCT/tct_detection/tct_0513/a76ff9e0d0924ef8a60fd9f1fddad68d_247.jpg 979,266,1281,446,0
+/data/niezl/TCT/tct_detection/tct_0513/0ae67986288646ddb15b7b85c7e5cd5b_91.jpg 1573,54,1746,96,0 1748,605,1834,669,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/b3821d3bfa3778ca3e1babc731c4359c0cecdb27.jpg 514,191,690,364,0 1220,640,1370,751,0
+/data/niezl/TCT/tct_detection/tct_0513/da307f74c5264bd5952e5bb0f50c66af_177.jpg 1673,163,1864,323,0
+/data/niezl/TCT/tct_detection/tct_0513/d3e95cb21d2f437abeef8669e6b1c526_141.jpg 1830,881,1917,992,0
+/data/niezl/TCT/tct_detection/tct_0513/b363a210e7c04c11930b1badfaebf951_181.jpg 1687,66,1848,176,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/bd7d7286a07c426ea0fd84ff88e3b0d1_266.jpg 168,224,253,326,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/06c910ef6394aa53b498a948b5fa8229696b2f29.jpg 1856,6,1931,91,0
+/data/niezl/TCT/tct_detection/tct_0513/7be1b21c5f194ad4b2c83618cc8d387c_265.jpg 457,956,548,1073,0
+/data/niezl/TCT/tct_detection/tct_0513/5b43d71ddbef4ceb96eea28834f15c53_451.jpg 1550,132,1858,405,0
+/data/niezl/TCT/tct_detection/tct_0513/96fb3b21d90f4bf8818c370561891f4f_94.jpg 1045,252,1130,326,0
+/data/niezl/TCT/tct_detection/tct_0513/bc3dc5e2ff894545b0a7ec2b330b1fca_228.jpg 1419,314,1683,557,0 581,980,821,1128,0
+/data/niezl/TCT/tct_detection/tct_0513/5ce078b512bd4744ae3cef0b8a20d661_292.jpg 15,259,153,423,0
+/data/niezl/TCT/tct_detection/tct_0513/5c4a343f28d9404abdb0e8e9b16b6538_150.jpg 1604,560,1710,662,0
+/data/niezl/TCT/tct_detection/tct_0513/0c9d33fff53c4da7adbbb942b10a6e06_70.jpg 1750,1034,1930,1214,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/8e14204e39164f4ba0097a6864283be2_28.jpg 416,651,610,823,0
+/data/niezl/TCT/tct_detection/tct_0513/572d0441fb684ac099ae2f9e1b11c12d_137.jpg 1727,711,1882,1005,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/2d03e4e2ed9fa823acdc0cb8d59c3a0030687a74.jpg 1330,25,1472,128,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/5438c0687a9442fe80a090af6608693d_191.jpg 1156,957,1314,1070,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/7c7fd84f892a06944afb47768cf1ae0f3c5b584c.jpg 1516,1093,1674,1196,0
+/data/niezl/TCT/tct_detection/tct_0513/07bcf318373c4579bf749a7377ac025d_227.jpg 108,160,429,711,0
+/data/niezl/TCT/tct_detection/tct_0513/0a5af6b5a9e446cd812291d204840c16_328.jpg 1593,937,1742,1086,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/19c0bb94fba2f055f7d7adb3574e3a86f990e33b.jpg 1328,155,1468,358,0
+/data/niezl/TCT/tct_detection/tct_0513/5f6efd30ab1342dcb09fa7cf8ae7f648_350.jpg 1025,1078,1130,1163,0 1203,613,1274,663,0
+/data/niezl/TCT/tct_detection/tct_0513/5c315ddf29954ab39536a88f89a77627_232.jpg 431,837,649,1074,0
+/data/niezl/TCT/tct_detection/tct_0513/8083e8af169a4ad1af2c007981da8bde_519.jpg 459,5,617,112,0
+/data/niezl/TCT/tct_detection/tct_0513/3481aaf5ac7642699d3151ebdb8c8520_142.jpg 806,710,1011,984,0
+/data/niezl/TCT/tct_detection/tct_0513/8e14204e39164f4ba0097a6864283be2_321.jpg 1461,469,1635,681,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/29a2e36310a448acf23d1e34b665688bc51575f5.jpg 182,1042,501,1207,0 788,469,1020,615,0
+/data/niezl/TCT/tct_detection/tct_0513/b683e9071fe14cdf849dbe51204e9272_73.jpg 292,782,395,875,0
+/data/niezl/TCT/tct_detection/tct_0513/02b6503529204bfe840b5810788e0dbf_63.jpg 1780,1006,1899,1099,0
+/data/niezl/TCT/tct_detection/tct_0513/c386ca18f57d485da07b76057d75be76_367.jpg 240,92,406,316,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/29ec52735a58f62f3c5356628a525939797051d2.jpg 637,132,722,217,0 1538,271,1600,345,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/3e2cc4ee513f4fdaaca219d127fc17d5_71.jpg 1710,156,1789,236,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/6baeb6ebb54d4968587b308ce5812f51d0dfd1d4.jpg 1838,549,1903,628,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/ac62b942202b40f99675382b6076a231_26.jpg 987,866,1546,1215,0
+/data/niezl/TCT/tct_detection/tct_0513/093c8c819aae4f498e7b14f4efc208a0_142.jpg 957,463,1160,641,0
+/data/niezl/TCT/tct_detection/tct_0513/a138d89014764e13ae25b1e5f5d3e0ea_239.jpg 724,14,836,167,0
+/data/niezl/TCT/tct_detection/tct_0513/b683e9071fe14cdf849dbe51204e9272_93.jpg 1128,325,1233,441,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/4a8253677ce44f06eb9b5d0dd1e3cf7cc9b7b42f.jpg 850,24,987,114,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/c4eab8519fe5108185e89c9870c1cd7e42a1ec16.jpg 387,262,531,371,0 609,485,728,564,0
+/data/niezl/TCT/tct_detection/tct_0513/d773e50ab82c45dfba1f6af6a296dc6e_117.jpg 1249,295,1365,405,0
+/data/niezl/TCT/tct_detection/tct_0513/5b299f2f06fe492bb2c2bea73db0de04_101.jpg 1276,821,1535,1102,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/9689540dbf25a677e4c8b596d321cf61caeffa31.jpg 311,872,437,1016,0
+/data/niezl/TCT/tct_detection/tct_0513/c2804710fcc547a2956f97811dbc0c17_245.jpg 17,364,157,524,0 342,46,605,266,0
+/data/niezl/TCT/tct_detection/tct_0513/7be1b21c5f194ad4b2c83618cc8d387c_174.jpg 1093,740,1229,934,0
+/data/niezl/TCT/tct_detection/tct_0513/66c2265c3cb64109b930a3263c659539_244.jpg 1390,87,1582,229,0
+/data/niezl/TCT/tct_detection/tct_0513/3886a6625aaa43b38bbeb429c44e7640_485.jpg 309,369,407,471,0
+/data/niezl/TCT/tct_detection/tct_0513/5b299f2f06fe492bb2c2bea73db0de04_470.jpg 1132,699,1384,968,0
+/data/niezl/TCT/tct_detection/tct_0513/7587d7b1ea23403fa31c7d5c6828c6de_75.jpg 653,676,792,763,0
+/data/niezl/TCT/tct_detection/tct_0513/c18721926b784b30ab05e15819046fa4_62.jpg 1050,1044,1256,1204,0
+/data/niezl/TCT/tct_detection/tct_0513/082b6820f42249dbbe5b715ad95cab3c_363.jpg 951,58,1287,345,0
+/data/niezl/TCT/tct_detection/tct_0513/63d00298be9744568157d22bc3d1b050_290.jpg 589,651,793,865,0 1148,397,1437,532,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/25d6934de9c2445989055a58217e4c2d_74.jpg 747,439,986,615,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/b7f7d6c7537d098c40198ee754e7c628906d15ff.jpg 686,10,1260,186,0
+/data/niezl/TCT/tct_detection/tct_0513/59f3a589997e48458fdfb3b21f809a2c_214.jpg 315,15,560,169,0
+/data/niezl/TCT/tct_detection/tct_0513/5f6efd30ab1342dcb09fa7cf8ae7f648_126.jpg 1352,797,1530,948,0
+/data/niezl/TCT/tct_detection/tct_0513/053c18204cd14d3b8d69f9a2d6e094f4_204.jpg 732,858,921,1081,0
+/data/niezl/TCT/tct_detection/tct_0513/b96b87cefa494eddb0a3eb7fd71e2d0b_459.jpg 1537,256,1685,435,0 439,497,697,623,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/c2be0b5c6a521a944b437b08fad0d6ff45729fe9.jpg 209,2,325,130,0
+/data/niezl/TCT/tct_detection/tct_0513/1cb116d8bfb54c41b6a792d0308c2684_63.jpg 315,571,440,711,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_175.jpg 1735,856,1850,1007,0 1380,390,1509,467,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/ac62b942202b40f99675382b6076a231_467.jpg 1464,293,1585,472,0
+/data/niezl/TCT/tct_detection/tct_0513/3789fff0c4484d8b9519d307d74e7437_287.jpg 265,198,375,313,0
+/data/niezl/TCT/tct_detection/tct_0513/5d3bbe01ab334b329ea5d2fe729defe5_519.jpg 867,384,983,513,0
+/data/niezl/TCT/tct_detection/tct_0513/7be1b21c5f194ad4b2c83618cc8d387c_425.jpg 347,244,500,451,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/385c1d1aa5564dbfa98a580c7fdb1b33_123.jpg 1399,344,1613,540,0 1494,36,1677,240,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/1d474f6372d394b532a02513b6996d3ee6caff6e.jpg 1533,28,1649,123,0
+/data/niezl/TCT/tct_detection/tct_0513/73a14d6772b7496a9abf7c8c151d911e_368.jpg 362,856,599,1028,0
+/data/niezl/TCT/tct_detection/tct_0513/5c315ddf29954ab39536a88f89a77627_509.jpg 875,925,1026,1147,0
+/data/niezl/TCT/tct_detection/tct_0513/4ca5258925e8471294d607a6aedea040_165.jpg 391,402,819,843,0
+/data/niezl/TCT/tct_detection/tct_0513/66c2265c3cb64109b930a3263c659539_54.jpg 564,56,868,245,0
+/data/niezl/TCT/tct_detection/tct_0513/f6fd8d4b596b41549ec37d63930702a9_429.jpg 1671,599,1785,735,0
+/data/niezl/TCT/tct_detection/tct_0513/5c315ddf29954ab39536a88f89a77627_101.jpg 1263,153,1401,330,0
+/data/niezl/TCT/tct_detection/tct_0513/62805a85ba8e4d19b9ad76ee5cc73bc9_492.jpg 1203,226,1399,420,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/ac62b942202b40f99675382b6076a231_345.jpg 28,851,246,1064,0
+/data/niezl/TCT/tct_detection/tct_0513/4553c570b1cf43289c7b65f651049b85_102.jpg 203,336,372,503,0
+/data/niezl/TCT/tct_detection/tct_0513/6fe64c3434824b49bd15c35c27748b93_483.jpg 136,231,433,453,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/2b61a1c32372b934cba0f5942cb9830c7260b7c9.jpg 1029,10,1155,119,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/3373248f3fde850851b6a3879b7f10c571ec4632.jpg 1601,175,1736,418,0
+/data/niezl/TCT/tct_detection/tct_0513/fdc0c78b43b44bc1858791f49e36f44e_298.jpg 7,752,64,857,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/b683e9071fe14cdf849dbe51204e9272_106.jpg 148,809,253,921,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/ac948ac9f751e95eb564ee36be6f0d44403a7dfa.jpg 477,96,606,203,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/f7712f909a6b704c58ffa318d42416aad2790a1f.jpg 988,676,1145,901,0 309,485,465,656,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/fb6248dce9e021fb85b5a0f14d923d5bff2ec811.jpg 663,435,765,590,0
+/data/niezl/TCT/tct_detection/tct_0513/fdc0c78b43b44bc1858791f49e36f44e_51.jpg 1148,5,1363,124,0
+/data/niezl/TCT/tct_detection/tct_0513/973b63ebf7d446768a26587a183164e4_307.jpg 1205,147,1384,358,0
+/data/niezl/TCT/tct_detection/tct_0513/63f36c190d99497186164a90def49a42_66.jpg 1536,218,1621,352,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/385c1d1aa5564dbfa98a580c7fdb1b33_29.jpg 1447,564,1582,713,0
+/data/niezl/TCT/tct_detection/tct_0513/63d00298be9744568157d22bc3d1b050_520.jpg 663,53,889,300,0
+/data/niezl/TCT/tct_detection/tct_0513/5943e863302742fab6956192932a172e_5.jpg 9,690,149,821,0 1701,414,1925,696,0
+/data/niezl/TCT/tct_detection/tct_0513/0297c42e08c04b2f845b92e10f54e445_405.jpg 1505,547,1794,790,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/3bbbcd4ed0c4db7a8cc5c4d9cf8f8b5bf1c6bdaa.jpg 845,103,1074,412,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/bb93c9b0cc8a0210d33238a575dcebce18e83b16.jpg 251,726,298,826,0 623,842,715,941,0
+/data/niezl/TCT/tct_detection/tct_0513/5f6efd30ab1342dcb09fa7cf8ae7f648_108.jpg 621,361,726,423,0
+/data/niezl/TCT/tct_detection/tct_0513/a64eb199123045c8891530dba45df589_432.jpg 116,101,334,278,0
+/data/niezl/TCT/tct_detection/tct_0513/3481aaf5ac7642699d3151ebdb8c8520_72.jpg 429,8,778,202,0
+/data/niezl/TCT/tct_detection/tct_0513/833be2f20fbe46b19b21f14f59eaa5e1_476.jpg 992,825,1269,1051,0
+/data/niezl/TCT/tct_detection/tct_0513/34dfe10ea735428f8b1822e9f43572dd_42.jpg 431,709,658,944,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/501ad323bb5d3dc34c665a64236c4c031ec2422c.jpg 493,518,573,633,0 350,87,417,155,0 1662,1053,1745,1156,0 502,656,563,703,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/d7a7b82a88c21df799ed1f907da5db9594040000.jpg 256,824,310,894,0 72,74,124,130,0 53,63,118,148,0
+/data/niezl/TCT/tct_detection/tct_0513/a8da6c55f89e4e26a63bf9e7b3ae59d5_140.jpg 597,1083,822,1205,0
+/data/niezl/TCT/tct_detection/tct_0513/59f3a589997e48458fdfb3b21f809a2c_29.jpg 341,955,438,1034,0
+/data/niezl/TCT/tct_detection/tct_0513/093c8c819aae4f498e7b14f4efc208a0_311.jpg 859,13,1053,128,0
+/data/niezl/TCT/tct_detection/tct_0513/a8da6c55f89e4e26a63bf9e7b3ae59d5_344.jpg 846,896,1067,1102,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/385c1d1aa5564dbfa98a580c7fdb1b33_403.jpg 936,171,1136,337,0
+/data/niezl/TCT/tct_detection/tct_0513/050667955b17452383eb6323bb39a4ae_1.jpg 1078,919,1176,995,0 1043,853,1135,924,0
+/data/niezl/TCT/tct_detection/tct_0513/6598a77d247f4f2e8c18b8f2ed32f2d1_149.jpg 41,608,168,757,0
+/data/niezl/TCT/tct_detection/tct_0513/d3e95cb21d2f437abeef8669e6b1c526_162.jpg 553,260,626,322,0
+/data/niezl/TCT/tct_detection/tct_0513/3255d5abb3cc40239af378276552b62b_216.jpg 720,371,910,520,0
+/data/niezl/TCT/tct_detection/tct_0513/7be1b21c5f194ad4b2c83618cc8d387c_32.jpg 244,286,517,488,0
+/data/niezl/TCT/tct_detection/tct_0513/cb095185776b4a5ea527fac7f7b257d6_84.jpg 1029,469,1161,747,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/d26a5ace84ba982662f4ff1fc0d005c38f15f325.jpg 1011,501,1693,1211,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/9486c24a7c3b4c1e773a93568bc19c580a9c68a8.jpg 4,143,136,329,0
+/data/niezl/TCT/tct_detection/tct_0513/b363a210e7c04c11930b1badfaebf951_355.jpg 178,491,431,833,0
+/data/niezl/TCT/tct_detection/tct_0513/4335bbe5438d4705b0fc5ae13ddd9aa5_250.jpg 1187,344,1292,509,0
+/data/niezl/TCT/tct_detection/tct_0513/ae058119904845bfb35a3103c2594f5c_49.jpg 658,429,724,481,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/77e7344e04fa45a205e4d7370673a04911df32cd.jpg 698,1013,808,1101,0
+/data/niezl/TCT/tct_detection/tct_0513/2c8b7c89010a4e98a4386e65a3119234_104.jpg 1644,858,1771,1121,0
+/data/niezl/TCT/tct_detection/tct_0513/3481aaf5ac7642699d3151ebdb8c8520_89.jpg 1401,689,1464,799,0
+/data/niezl/TCT/tct_detection/tct_0513/f5f30d7a2f4a40c0a694b30a6693b6bc_286.jpg 1168,988,1237,1078,0
+/data/niezl/TCT/tct_detection/tct_0513/47726cfdd2874a94bd5e5238b6991dbc_325.jpg 1137,69,1269,172,0
+/data/niezl/TCT/tct_detection/tct_0513/082b6820f42249dbbe5b715ad95cab3c_423.jpg 269,755,433,944,0
+/data/niezl/TCT/tct_detection/tct_0513/bc3dc5e2ff894545b0a7ec2b330b1fca_218.jpg 527,206,818,507,0
+/data/niezl/TCT/tct_detection/tct_0513/73a14d6772b7496a9abf7c8c151d911e_60.jpg 369,992,556,1181,0
+/data/niezl/TCT/tct_detection/tct_0513/6d00a9ca5c3248db93e2f72937fb683c_519.jpg 1575,184,1687,338,0
+/data/niezl/TCT/tct_detection/tct_0513/5b299f2f06fe492bb2c2bea73db0de04_348.jpg 757,962,977,1199,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/5438c0687a9442fe80a090af6608693d_138.jpg 827,771,1034,1037,0
+/data/niezl/TCT/tct_detection/tct_0513/a5895797b17d4dc8814c057fb3cc6ad3_345.jpg 1251,980,1764,1210,0
+/data/niezl/TCT/tct_detection/tct_0513/e12222f71f394c8394bc1cb00536d597_193.jpg 1053,526,1251,716,0
+/data/niezl/TCT/tct_detection/tct_0513/a138d89014764e13ae25b1e5f5d3e0ea_502.jpg 600,60,728,190,0
+/data/niezl/TCT/tct_detection/tct_0513/d639f6176737426f8ff47365390aa166_140.jpg 1283,210,1365,260,0
+/data/niezl/TCT/tct_detection/tct_0513/ce51da23f1f54ac48e24ea9634293011_319.jpg 1080,804,1265,978,0
+/data/niezl/TCT/tct_detection/tct_0513/b96b87cefa494eddb0a3eb7fd71e2d0b_418.jpg 198,992,377,1202,0
+/data/niezl/TCT/tct_detection/tct_0513/082b6820f42249dbbe5b715ad95cab3c_460.jpg 735,11,955,341,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/8a7fece99cc54f0cae344d21d0630f3c_199.jpg 1712,1019,1804,1090,0
+/data/niezl/TCT/tct_detection/tct_0513/a8da6c55f89e4e26a63bf9e7b3ae59d5_195.jpg 459,465,609,618,0
+/data/niezl/TCT/tct_detection/tct_0513/c9006d2c3ab54de4bd53069ebd084604_71.jpg 762,627,889,769,0
+/data/niezl/TCT/tct_detection/tct_0513/f04f0e7c46994107b78175a0d862946c_90.jpg 365,982,466,1074,0
+/data/niezl/TCT/tct_detection/tct_0513/865a30f1936340189465eb5260c02784_431.jpg 72,833,192,979,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/ee7c99c3a8404dd7aca099d3b25c06f0bb807a11.jpg 1629,800,1685,833,0 1034,30,1162,111,0 187,47,231,90,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/8b9e8aacaf1cdd88e875710d45b26b7883cb42e5.jpg 370,58,581,190,0 175,2,282,113,0
+/data/niezl/TCT/tct_detection/tct_0513/8e1f4fc6c02f45a68b1d3d4ce858f4eb_34.jpg 1603,460,1673,558,0
+/data/niezl/TCT/tct_detection/tct_0513/06829c3658de41c2b792b08d39c4453c_338.jpg 1126,292,1309,645,0
+/data/niezl/TCT/tct_detection/tct_0513/8f45c5479cec4a17addcba927669cd03_316.jpg 1671,67,1840,188,0
+/data/niezl/TCT/tct_detection/tct_0513/8e1f4fc6c02f45a68b1d3d4ce858f4eb_189.jpg 847,457,952,608,0 215,699,342,770,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/73336405ac14bb981a333041e598633734edb96b.jpg 1365,1057,1641,1216,0 943,289,1085,411,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/1c435a8034a744a8865de6f040cc923a_82.jpg 7,1008,87,1097,0
+/data/niezl/TCT/tct_detection/tct_0513/25d6934de9c2445989055a58217e4c2d_79.jpg 231,391,431,626,0 1178,158,1274,275,0
+/data/niezl/TCT/tct_detection/tct_0513/d773e50ab82c45dfba1f6af6a296dc6e_175.jpg 1769,263,1870,373,0
+/data/niezl/TCT/tct_detection/tct_0513/c0e5d004a7b847bdad26987c06d3d924_327.jpg 808,1061,979,1209,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_322.jpg 435,157,575,306,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/1cb116d8bfb54c41b6a792d0308c2684_29.jpg 395,35,714,306,0
+/data/niezl/TCT/tct_detection/tct_0513/b96b87cefa494eddb0a3eb7fd71e2d0b_87.jpg 395,843,527,955,0 1572,426,1795,667,0
+/data/niezl/TCT/tct_detection/tct_0513/b363a210e7c04c11930b1badfaebf951_6.jpg 1102,78,1333,276,0
+/data/niezl/TCT/tct_detection/tct_0513/a701e8e8a57e47908bf9bd9d8161a868_423.jpg 774,288,897,419,0
+/data/niezl/TCT/tct_detection/tct_0513/66c2265c3cb64109b930a3263c659539_30.jpg 30,103,231,277,0
+/data/niezl/TCT/tct_detection/tct_0513/1e88a6d4d7dc43d28928bfd53c2ba0ce_345.jpg 1876,984,1928,1126,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/e04bcce4a76d31a56fc5afd842125cbe3de4e42b.jpg 471,1111,549,1198,0 391,800,518,961,0 501,682,584,801,0 124,226,254,358,0
+/data/niezl/TCT/tct_detection/tct_0513/4553c570b1cf43289c7b65f651049b85_414.jpg 27,795,306,1081,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/e12d3e8d9fbf9522096c0e4835895a520bb7d03d.jpg 57,785,410,1133,0 234,13,361,119,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/80c9b7f9c47d1eb5bfe77c75dc0662637455d3a2.jpg 168,220,258,320,0 156,216,305,324,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_93.jpg 349,460,574,570,0 415,82,540,178,0 98,723,253,946,0 664,115,869,285,0 370,568,492,701,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/2545961ebbb021ae3563fc3a941769c40031f249.jpg 714,710,778,784,0 748,663,841,762,0 669,639,848,815,0
+/data/niezl/TCT/tct_detection/tct_0513/180b15f1e3e24052a97830422ed7f333_4.jpg 185,1100,354,1201,0
+/data/niezl/TCT/tct_detection/tct_0513/9858c3df99944a1381f552742d74494e_274.jpg 817,144,1119,373,0
+/data/niezl/TCT/tct_detection/tct_0513/3de5f88355ec4783829778a303f11730_344.jpg 1258,699,1356,827,0
+/data/niezl/TCT/tct_detection/tct_0513/39a13a69e6164614b238b7e2fb86bed2_50.jpg 45,450,196,661,0
+/data/niezl/TCT/tct_detection/tct_0513/096394dcf54d4cb5b65b7f52880fda0b_14.jpg 1274,289,1475,541,0
+/data/niezl/TCT/tct_detection/tct_0513/3481aaf5ac7642699d3151ebdb8c8520_333.jpg 1022,954,1397,1178,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/5b299f2f06fe492bb2c2bea73db0de04_498.jpg 1539,209,1824,455,0
+/data/niezl/TCT/tct_detection/tct_0513/1cb116d8bfb54c41b6a792d0308c2684_395.jpg 1675,776,1917,985,0
+/data/niezl/TCT/tct_detection/tct_0513/bcef3014a6984cc7a5720e9f3d8ec43c_100.jpg 5,32,144,146,0
+/data/niezl/TCT/tct_detection/tct_0513/4553c570b1cf43289c7b65f651049b85_477.jpg 333,393,443,517,0
+/data/niezl/TCT/tct_detection/tct_0513/cafffd51dca04100af11e1ba9585dfe5_419.jpg 1208,151,1300,210,0
+/data/niezl/TCT/tct_detection/tct_0513/5860121eb6d54f99924b98cc1abec137_381.jpg 476,465,627,611,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/ae058119904845bfb35a3103c2594f5c_93.jpg 812,16,925,136,0
+/data/niezl/TCT/tct_detection/tct_0513/c0e5d004a7b847bdad26987c06d3d924_103.jpg 1395,373,1572,522,0
+/data/niezl/TCT/tct_detection/tct_0513/c9006d2c3ab54de4bd53069ebd084604_32.jpg 1378,589,1531,793,0
+/data/niezl/TCT/tct_detection/tct_0513/946e4b96b922488b88a594859d5466d6_181.jpg 1484,1119,1600,1213,0
+/data/niezl/TCT/tct_detection/tct_0513/dae34bb2594a41f7a7d2d4d9e5004be1_441.jpg 1540,137,1658,257,0
+/data/niezl/TCT/tct_detection/tct_0513/1eb498576ab74536ac268644046e1d22_50.jpg 1594,622,1710,727,0
+/data/niezl/TCT/tct_detection/tct_0513/79380d7191cd41b08f384d291a4169c5_437.jpg 1402,129,1696,398,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/0b87a49c53b94fa3a4fc501e5fc9f141_254.jpg 1342,26,1486,138,0
+/data/niezl/TCT/tct_detection/tct_0513/0b559ea57e4142588161f60368c801b9_37.jpg 899,68,1009,210,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/ac62b942202b40f99675382b6076a231_255.jpg 11,281,175,458,0
+/data/niezl/TCT/tct_detection/tct_0513/45834fb6546149c4b398973fdbf885b0_309.jpg 696,953,884,1211,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/20f70fb7854a97736fdc10e3c61a5fa013a0d1f3.jpg 974,315,1068,378,0 1851,748,1928,871,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/a5d6db8285bce0d9451b4e873d94addc63f4bf4e.jpg 221,287,368,379,0 694,818,767,872,0 158,100,200,215,0 143,1032,189,1089,0 648,866,721,945,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/725faa0449fe67f5c325888d79d4377c09044873.jpg 1046,411,1198,511,0 149,262,208,313,0
+/data/niezl/TCT/tct_detection/tct_0513/c51d01dbe09b45ca868f18d10f15e8a0_18.jpg 535,530,1022,1201,0
+/data/niezl/TCT/tct_detection/tct_0513/bcef3014a6984cc7a5720e9f3d8ec43c_466.jpg 1566,463,1773,565,0
+/data/niezl/TCT/tct_detection/tct_0513/2c8b7c89010a4e98a4386e65a3119234_55.jpg 384,203,450,391,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/d1c18b96eeb179061f64fcb93a8b01653cd30330.jpg 878,193,950,242,0 167,88,240,191,0 1367,577,1440,675,0 675,650,835,841,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/abd72494496c9e1a205a35e8936c77fe61a4206c.jpg 1431,208,1581,360,0
+/data/niezl/TCT/tct_detection/tct_0513/3481aaf5ac7642699d3151ebdb8c8520_11.jpg 464,404,660,581,0
+/data/niezl/TCT/tct_detection/tct_0513/5943e863302742fab6956192932a172e_91.jpg 1740,112,1923,485,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/1290cecdd8a94ee7b964996541cedda6_50.jpg 823,359,970,581,0
+/data/niezl/TCT/tct_detection/tct_0513/f04f0e7c46994107b78175a0d862946c_475.jpg 1314,818,1580,1091,0 930,587,1225,884,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/5d3bbe01ab334b329ea5d2fe729defe5_299.jpg 34,839,203,1080,0
+/data/niezl/TCT/tct_detection/tct_0513/9f7df53c983545f6ba5af70058fee07b_75.jpg 936,1051,1043,1186,0
+/data/niezl/TCT/tct_detection/tct_0513/8e1f4fc6c02f45a68b1d3d4ce858f4eb_146.jpg 765,697,895,784,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/f5dcb77136b5b225342a8364b1e28f05e3a38ffe.jpg 669,72,892,210,0 1167,652,1294,798,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/07579492663d09903ad26f3816de711ce0db4872.jpg 1047,357,1204,587,0 383,379,470,423,0
+/data/niezl/TCT/tct_detection/tct_0513/652036e5bc03450c8a735aadde1b9b2f_381.jpg 1219,857,1315,964,0
+/data/niezl/TCT/tct_detection/tct_0513/a9d78b6697354733aa3bf290b40bd5b3_445.jpg 1086,660,1291,872,0
+/data/niezl/TCT/tct_detection/tct_0513/096394dcf54d4cb5b65b7f52880fda0b_26.jpg 88,19,276,339,0
+/data/niezl/TCT/tct_detection/tct_0513/0e446d7fa244454eab3f6b3fde1bae82_424.jpg 1474,306,1620,422,0
+/data/niezl/TCT/tct_detection/tct_0513/572d0441fb684ac099ae2f9e1b11c12d_208.jpg 375,882,573,992,0
+/data/niezl/TCT/tct_detection/tct_0513/3481aaf5ac7642699d3151ebdb8c8520_165.jpg 78,663,250,855,0
+/data/niezl/TCT/tct_detection/tct_0513/3e2cc4ee513f4fdaaca219d127fc17d5_69.jpg 1335,378,1539,685,0
+/data/niezl/TCT/tct_detection/tct_0513/9f85680524d04a188b7b6ddf1fadfdc2_507.jpg 310,91,448,218,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/5b0bfe9514905206e337a46dff00942eef5a2ace.jpg 267,45,321,130,0 798,296,887,441,0 1718,976,1850,1176,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/0c62ec880ff705a79355d419faef2b184c735b48.jpg 1004,464,1114,605,0
+/data/niezl/TCT/tct_detection/tct_0513/fc71b18c13a44fb3b9b7226dfad8416f_394.jpg 287,370,370,462,0
+/data/niezl/TCT/tct_detection/tct_0513/63d00298be9744568157d22bc3d1b050_207.jpg 32,18,247,283,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/f90fcc11728d4d810c6de741a13f772adabda4a2.jpg 337,1112,480,1210,0 600,951,809,1181,0 186,23,343,174,0
+/data/niezl/TCT/tct_detection/tct_0513/b7eb73b4a4db4f43b407eea3b247b554_361.jpg 1542,287,1790,517,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/747aee7623d8151911f8485a1b75c095ea623246.jpg 1611,233,1766,404,0 681,111,767,174,0
+/data/niezl/TCT/tct_detection/tct_0513/59f3a589997e48458fdfb3b21f809a2c_87.jpg 1135,754,1542,1196,0
+/data/niezl/TCT/tct_detection/tct_0513/92c8d54d20ba47168f2967ef040232c8_195.jpg 1136,1053,1268,1198,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/de9b59ccff3666e20549b24e9c1e6c849b95583f.jpg 1248,923,1317,1008,0
+/data/niezl/TCT/tct_detection/tct_0513/b363a210e7c04c11930b1badfaebf951_488.jpg 790,547,980,677,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/8ee1e86c46d8dce5b96f2cd021c90a9a79ce0c35.jpg 970,699,1037,748,0
+/data/niezl/TCT/tct_detection/tct_0513/3481aaf5ac7642699d3151ebdb8c8520_48.jpg 964,350,1186,570,0 561,389,791,648,0 718,876,832,997,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/168fb331a67508b2dbdfd65c6261746c388f7c3a.jpg 1059,779,1179,925,0
+/data/niezl/TCT/tct_detection/tct_0513/dae34bb2594a41f7a7d2d4d9e5004be1_284.jpg 1679,266,1804,431,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/8ec39d17dd8a447d851fb123653ecd34_315.jpg 218,901,453,1141,0
+/data/niezl/TCT/tct_detection/tct_0513/a5895797b17d4dc8814c057fb3cc6ad3_268.jpg 798,771,926,815,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/5d3bbe01ab334b329ea5d2fe729defe5_312.jpg 1043,153,1255,321,0
+/data/niezl/TCT/tct_detection/tct_0513/5ce078b512bd4744ae3cef0b8a20d661_139.jpg 658,1093,757,1188,0
+/data/niezl/TCT/tct_detection/tct_0513/bec0d88744ae443dbe25fc8e813613a0_210.jpg 274,134,455,298,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/169e7153c6f187f44a779753d507e3d904a0ea23.jpg 200,773,252,855,0 332,352,388,432,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/1290cecdd8a94ee7b964996541cedda6_23.jpg 140,123,420,243,0
+/data/niezl/TCT/tct_detection/tct_0513/180b15f1e3e24052a97830422ed7f333_474.jpg 119,80,692,793,0
+/data/niezl/TCT/tct_detection/tct_0513/63f36c190d99497186164a90def49a42_44.jpg 1785,165,1861,266,0
+/data/niezl/TCT/tct_detection/tct_0513/fc71b18c13a44fb3b9b7226dfad8416f_209.jpg 497,474,657,603,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/1e3dcaa9099a596de4f0641b503c510f4f853498.jpg 1321,746,1563,933,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/43e5c1cef67ce4f361d69100562d2735519beb44.jpg 585,1056,703,1212,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/84dd97c1b704698cd3864bba6ed4cc0ca1995576.jpg 125,128,210,263,0 1157,510,1277,604,0
+/data/niezl/TCT/tct_detection/tct_0513/66c2265c3cb64109b930a3263c659539_289.jpg 1164,455,1363,576,0 463,158,685,320,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/8e14204e39164f4ba0097a6864283be2_73.jpg 1411,777,1619,928,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/5a862f127bf74d95a4b049a4a4d7b300_342.jpg 1026,379,1199,571,0
+/data/niezl/TCT/tct_detection/tct_0513/a8da6c55f89e4e26a63bf9e7b3ae59d5_271.jpg 176,16,448,206,0 812,9,1035,130,0
+/data/niezl/TCT/tct_detection/tct_0513/5ce078b512bd4744ae3cef0b8a20d661_75.jpg 248,740,356,877,0
+/data/niezl/TCT/tct_detection/tct_0513/ac658d83c94a4251bbb02f1070fa9ecb_222.jpg 1317,993,1440,1101,0
+/data/niezl/TCT/tct_detection/tct_0513/3481aaf5ac7642699d3151ebdb8c8520_119.jpg 1548,510,1897,1101,0 293,350,405,475,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/9a6fa1b0a9a0be3126a48d509d26ff97c8b51e04.jpg 1237,695,1589,949,0 1031,161,1094,235,0
+/data/niezl/TCT/tct_detection/tct_0513/da307f74c5264bd5952e5bb0f50c66af_467.jpg 272,101,566,402,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/8e14204e39164f4ba0097a6864283be2_119.jpg 1673,782,1822,998,0
+/data/niezl/TCT/tct_detection/tct_0513/ae058119904845bfb35a3103c2594f5c_500.jpg 346,0,523,127,0
+/data/niezl/TCT/tct_detection/tct_0513/082b6820f42249dbbe5b715ad95cab3c_293.jpg 15,722,181,901,0
+/data/niezl/TCT/tct_detection/tct_0513/b96b87cefa494eddb0a3eb7fd71e2d0b_154.jpg 457,266,669,513,0
+/data/niezl/TCT/tct_detection/tct_0513/5943e863302742fab6956192932a172e_162.jpg 716,755,985,1162,0
+/data/niezl/TCT/tct_detection/tct_0513/320566ffc82a4c37af1c5cee261905b1_242.jpg 809,350,1283,677,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/d88842127bf8802a3d5bfa8f529e00f5c7ebfd2d.jpg 1483,484,1575,589,0 247,161,377,233,0 53,368,158,498,0
+/data/niezl/TCT/tct_detection/tct_0513/3481aaf5ac7642699d3151ebdb8c8520_61.jpg 1399,491,1563,689,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/85b647c0c73715a3c5ed9f400829a71c73451193.jpg 238,701,359,829,0 247,547,317,591,0 452,625,516,719,0 513,806,608,901,0
+/data/niezl/TCT/tct_detection/tct_0513/ae058119904845bfb35a3103c2594f5c_101.jpg 5,870,80,1013,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/8a7fece99cc54f0cae344d21d0630f3c_335.jpg 781,243,900,366,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/c1dfb8ad371240c48ac7efd19d884aac_50.jpg 1742,802,1877,966,0
+/data/niezl/TCT/tct_detection/tct_0513/3e2cc4ee513f4fdaaca219d127fc17d5_17.jpg 593,563,707,671,0
+/data/niezl/TCT/tct_detection/tct_0513/db1a6dc901734173928b90864ae67216_98.jpg 548,848,686,1029,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/bd7d7286a07c426ea0fd84ff88e3b0d1_405.jpg 116,78,226,196,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/76cada6fede240f09909b648e44cf481_275.jpg 1205,848,1315,985,0
+/data/niezl/TCT/tct_detection/tct_0513/1c435a8034a744a8865de6f040cc923a_466.jpg 87,845,240,966,0
+/data/niezl/TCT/tct_detection/tct_0513/ac5db318a1f44b0f81f86ab1cca544d2_139.jpg 1443,377,1571,526,0
+/data/niezl/TCT/tct_detection/tct_0513/e0a40771515341c7afa9a7945feaa13d_162.jpg 332,29,470,219,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_69.jpg 364,254,501,397,0 422,79,550,182,0
+/data/niezl/TCT/tct_detection/tct_0513/9f78ae6c3c43434c88c14b6d50960e75_4.jpg 1742,290,1865,386,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/f461b6c1fcd7a64d7af73c0ab7f29fb968ce6a07.jpg 1098,499,1259,616,0
+/data/niezl/TCT/tct_detection/tct_0513/c5082a6339614994a2075b654f698afd_217.jpg 313,727,421,845,0
+/data/niezl/TCT/tct_detection/tct_0513/7be1b21c5f194ad4b2c83618cc8d387c_110.jpg 994,360,1130,423,0 313,977,420,1052,0 272,259,479,347,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/a138d89014764e13ae25b1e5f5d3e0ea_389.jpg 94,533,231,661,0
+/data/niezl/TCT/tct_detection/tct_0513/7afbb0eebd724841b925d53fcf2b3e84_524.jpg 1596,768,1712,859,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/554caef876afea64c8d43957f7e3b1334b64db89.jpg 758,568,878,721,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/865a30f1936340189465eb5260c02784_476.jpg 891,565,1005,699,0
+/data/niezl/TCT/tct_detection/tct_0513/3e2cc4ee513f4fdaaca219d127fc17d5_58.jpg 1352,477,1440,551,0 1434,304,1508,401,0
+/data/niezl/TCT/tct_detection/tct_0513/bec0d88744ae443dbe25fc8e813613a0_377.jpg 1011,744,1266,1015,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/65c26978dd5f18e8f86ff8994ccf74fe2e9a8ccc.jpg 1391,173,1513,283,0
+/data/niezl/TCT/tct_detection/tct_0513/06829c3658de41c2b792b08d39c4453c_301.jpg 351,1012,738,1212,0
+/data/niezl/TCT/tct_detection/tct_0513/b363a210e7c04c11930b1badfaebf951_333.jpg 934,709,1112,932,0
+/data/niezl/TCT/tct_detection/tct_0513/66c2265c3cb64109b930a3263c659539_304.jpg 201,195,406,412,0
+/data/niezl/TCT/tct_detection/tct_0513/a50902121c9f40acb43d37f1f034f85c_135.jpg 718,90,826,312,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/c3b3e5a5928d413c4e912c99e539f64cbd6d16a4.jpg 8,600,128,738,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/f37b7d8871e7d01ff974cd6754743f5458a32df0.jpg 406,110,463,157,0 1062,78,1352,261,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/8e14204e39164f4ba0097a6864283be2_303.jpg 1057,708,1196,868,0
+/data/niezl/TCT/tct_detection/tct_0513/63f36c190d99497186164a90def49a42_416.jpg 1027,907,1160,1060,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/5b4acfc42ef70b645acab348b2b8b2dac0653425.jpg 1563,465,1714,608,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/77dc8fb7030f488ae109c7e2e84d131e7a3d68cc.jpg 1048,868,1128,973,0 276,840,377,920,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_139.jpg 1700,827,1884,993,0 1139,1139,1267,1213,0 201,735,400,913,0
+/data/niezl/TCT/tct_detection/tct_0513/5b299f2f06fe492bb2c2bea73db0de04_93.jpg 188,724,468,972,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/9e5e9bd610795b11919b84757fc8c3c277688a1f.jpg 1315,1113,1398,1212,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/5d3bbe01ab334b329ea5d2fe729defe5_383.jpg 1087,638,1311,1018,0
+/data/niezl/TCT/tct_detection/tct_0513/e194591f79d8469e8cf3ebcbd82ca783_417.jpg 331,619,589,850,0
+/data/niezl/TCT/tct_detection/tct_0513/5a862f127bf74d95a4b049a4a4d7b300_276.jpg 73,724,338,998,0
+/data/niezl/TCT/tct_detection/tct_0513/bec0d88744ae443dbe25fc8e813613a0_28.jpg 1535,119,1695,321,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/cbfe01435b1c6dcdf5034a8b006898e82e555452.jpg 848,337,1012,469,0
+/data/niezl/TCT/tct_detection/tct_0513/c51d01dbe09b45ca868f18d10f15e8a0_94.jpg 336,291,582,539,0
+/data/niezl/TCT/tct_detection/tct_0513/4335bbe5438d4705b0fc5ae13ddd9aa5_247.jpg 1107,860,1281,1084,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/290972d4812fb11ac50e9fa4d6082a459f2071ac.jpg 213,652,327,760,0 766,1024,890,1200,0 28,455,202,767,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_120.jpg 1037,638,1302,802,0 898,165,1185,415,0 1413,63,1528,206,0
+/data/niezl/TCT/tct_detection/tct_0513/053c18204cd14d3b8d69f9a2d6e094f4_39.jpg 45,478,144,610,0
+/data/niezl/TCT/tct_detection/tct_0513/fa05d1888dce4a2c8e41179af4920280_212.jpg 24,53,201,202,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/5b417ff1eb86356bdae21ec51e54d4579484cdad.jpg 1203,906,1410,1041,0 370,706,435,779,0 165,1126,271,1197,0
+/data/niezl/TCT/tct_detection/tct_0513/5f6efd30ab1342dcb09fa7cf8ae7f648_331.jpg 1735,845,1893,1039,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_161.jpg 71,23,357,169,0 288,384,446,540,0 1622,950,1767,1096,0
+/data/niezl/TCT/tct_detection/tct_0513/ac5db318a1f44b0f81f86ab1cca544d2_114.jpg 1331,542,1505,866,0 532,880,760,1167,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/ce130c4652489799869d826012f5e963b0a0b477.jpg 475,566,718,715,0 524,573,666,703,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/5b299f2f06fe492bb2c2bea73db0de04_262.jpg 565,88,964,341,0
+/data/niezl/TCT/tct_detection/tct_0513/4ca5258925e8471294d607a6aedea040_248.jpg 351,825,593,1152,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/1690fa542a94f6c9237f3c1566fb24eec00b5e8b.jpg 459,503,1006,897,0 535,500,1006,876,0
+/data/niezl/TCT/tct_detection/tct_0513/ec0d82b238214f1f90480d91924913b5_268.jpg 1185,430,1381,658,0
+/data/niezl/TCT/tct_detection/tct_0513/4b9e3fbc37354a32858c47f370b20d0d_278.jpg 1211,763,1551,1016,0
+/data/niezl/TCT/tct_detection/tct_0513/7be1b21c5f194ad4b2c83618cc8d387c_114.jpg 1214,116,1354,289,0
+/data/niezl/TCT/tct_detection/tct_0513/29914cef05dc4bff9818278d0f57a8f0_352.jpg 9,275,132,516,0
+/data/niezl/TCT/tct_detection/tct_0513/096394dcf54d4cb5b65b7f52880fda0b_42.jpg 326,50,541,216,0
+/data/niezl/TCT/tct_detection/tct_0513/7587d7b1ea23403fa31c7d5c6828c6de_340.jpg 201,494,283,555,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/5d3bbe01ab334b329ea5d2fe729defe5_502.jpg 1669,440,1923,837,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/f6ddb7e397686fb7844e7f8a4458486da8e5ac23.jpg 1414,260,1479,347,0
+/data/niezl/TCT/tct_detection/tct_0513/66c2265c3cb64109b930a3263c659539_260.jpg 75,916,306,1046,0 1735,142,1868,275,0
+/data/niezl/TCT/tct_detection/tct_0513/7be1b21c5f194ad4b2c83618cc8d387c_29.jpg 1479,135,1606,322,0
+/data/niezl/TCT/tct_detection/tct_0513/973b63ebf7d446768a26587a183164e4_525.jpg 26,464,209,655,0
+/data/niezl/TCT/tct_detection/tct_0513/3886a6625aaa43b38bbeb429c44e7640_250.jpg 222,611,331,743,0
+/data/niezl/TCT/tct_detection/tct_0513/92c8d54d20ba47168f2967ef040232c8_426.jpg 433,749,664,963,0
+/data/niezl/TCT/tct_detection/tct_0513/2c8b7c89010a4e98a4386e65a3119234_407.jpg 747,415,893,523,0
+/data/niezl/TCT/tct_detection/tct_0513/ff500f6546584bdb9ec6aaaf635dfd14_468.jpg 59,231,210,384,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/03906cd1c55584dd00695c2f0f74befc42451fe8.jpg 219,768,313,864,0 495,860,572,914,0 444,354,527,457,0 956,1031,1037,1087,0 424,291,562,510,0
+/data/niezl/TCT/tct_detection/tct_0513/ce51da23f1f54ac48e24ea9634293011_238.jpg 1203,147,1301,284,0
+/data/niezl/TCT/tct_detection/tct_0513/3de5f88355ec4783829778a303f11730_521.jpg 646,905,852,1142,0
+/data/niezl/TCT/tct_detection/tct_0513/180b15f1e3e24052a97830422ed7f333_223.jpg 735,966,882,1141,0
+/data/niezl/TCT/tct_detection/tct_0513/b683e9071fe14cdf849dbe51204e9272_373.jpg 1126,313,1315,498,0
+/data/niezl/TCT/tct_detection/tct_0513/0a5af6b5a9e446cd812291d204840c16_253.jpg 942,547,1104,786,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_59.jpg 995,755,1107,925,0
+/data/niezl/TCT/tct_detection/tct_0513/c0e5d004a7b847bdad26987c06d3d924_50.jpg 375,768,528,959,0
+/data/niezl/TCT/tct_detection/tct_0513/946e4b96b922488b88a594859d5466d6_233.jpg 1580,10,1817,295,0
+/data/niezl/TCT/tct_detection/tct_0513/fa05d1888dce4a2c8e41179af4920280_242.jpg 534,136,670,296,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/e9302d2079d2ebff3645e1d52b74ec9fffdf808d.jpg 878,913,1081,1096,0 901,974,1087,1048,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/a424ef924692a918ce425d58436382b88586f16d.jpg 533,15,643,150,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/25414ca44f7aee15ff79486129db57e0c43c14c8.jpg 1263,598,1337,679,0 847,109,900,211,0
+/data/niezl/TCT/tct_detection/tct_0513/9ac2a90dd4d043d5a8a4861995509cff_475.jpg 57,695,210,822,0
+/data/niezl/TCT/tct_detection/tct_0513/5571c952f1ca41919bbc14d89c77ec92_248.jpg 899,425,1020,543,0
+/data/niezl/TCT/tct_detection/tct_0513/728184c80e0544b983beec498444eb81_472.jpg 1425,12,1724,231,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/ac43a85041e9ad712417024afcb2bb27bbd9cab5.jpg 184,831,316,961,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/1c435a8034a744a8865de6f040cc923a_52.jpg 227,260,338,357,0
+/data/niezl/TCT/tct_detection/tct_0513/66954d9dadea4e50bd1d2356ed2428a0_3.jpg 1517,793,1631,960,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/c51d01dbe09b45ca868f18d10f15e8a0_333.jpg 1115,642,1326,931,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/833be2f20fbe46b19b21f14f59eaa5e1_365.jpg 1347,771,1550,898,0
+/data/niezl/TCT/tct_detection/tct_0513/0fe1c9d4d84247deb0356b75160b4575_273.jpg 1536,613,1625,700,0
+/data/niezl/TCT/tct_detection/tct_0513/3886a6625aaa43b38bbeb429c44e7640_161.jpg 832,803,956,930,0
+/data/niezl/TCT/tct_detection/tct_0513/728184c80e0544b983beec498444eb81_107.jpg 1594,535,1676,619,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/0c9d85f2a0d66b8668b79df3d434060062df027a.jpg 32,563,157,656,0
+/data/niezl/TCT/tct_detection/tct_0513/59f3a589997e48458fdfb3b21f809a2c_68.jpg 1568,960,1761,1194,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/3e82f6a5c960e65e740a12dd0b6939569c96ec05.jpg 1306,683,1416,806,0
+/data/niezl/TCT/tct_detection/tct_0513/2871c3ca5e5f406d9d42b2c338704944_290.jpg 718,929,1059,1201,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/9f5de10e9989b8b0d9dd2412962f94892b1217a0.jpg 537,5,717,76,0 901,880,964,972,0 861,863,998,991,0
+/data/niezl/TCT/tct_detection/tct_0513/a8da6c55f89e4e26a63bf9e7b3ae59d5_44.jpg 1417,712,1602,909,0 1712,259,1923,421,0 31,398,293,662,0 322,620,457,799,0
+/data/niezl/TCT/tct_detection/tct_0513/7be1b21c5f194ad4b2c83618cc8d387c_47.jpg 52,1028,298,1173,0
+/data/niezl/TCT/tct_detection/tct_0513/66c2265c3cb64109b930a3263c659539_444.jpg 427,679,555,793,0
+/data/niezl/TCT/tct_detection/tct_0513/db1a6dc901734173928b90864ae67216_471.jpg 457,219,627,428,0
+/data/niezl/TCT/tct_detection/tct_0513/5943e863302742fab6956192932a172e_108.jpg 9,966,496,1207,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/1290cecdd8a94ee7b964996541cedda6_1.jpg 227,158,499,307,0 1634,206,1879,515,0
+/data/niezl/TCT/tct_detection/tct_0513/5f6efd30ab1342dcb09fa7cf8ae7f648_490.jpg 594,1014,705,1129,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/0ae67986288646ddb15b7b85c7e5cd5b_177.jpg 415,180,499,278,0
+/data/niezl/TCT/tct_detection/tct_0513/db1a6dc901734173928b90864ae67216_332.jpg 291,447,446,693,0
+/data/niezl/TCT/tct_detection/tct_0513/9ac2a90dd4d043d5a8a4861995509cff_340.jpg 1643,171,1739,298,0
+/data/niezl/TCT/tct_detection/tct_0513/050667955b17452383eb6323bb39a4ae_29.jpg 1005,16,1078,71,0
+/data/niezl/TCT/tct_detection/tct_0513/73a14d6772b7496a9abf7c8c151d911e_290.jpg 595,11,888,140,0
+/data/niezl/TCT/tct_detection/tct_0513/c0efc0a186814ed9bf9490bc6ffa7539_218.jpg 1103,428,1276,526,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/bbeab5383c21101e3a9931020122c6703115baf6.jpg 1493,660,1609,771,0
+/data/niezl/TCT/tct_detection/tct_0513/973b63ebf7d446768a26587a183164e4_461.jpg 487,614,1000,1119,0
+/data/niezl/TCT/tct_detection/tct_0513/0ae67986288646ddb15b7b85c7e5cd5b_74.jpg 1836,860,1930,1034,0
+/data/niezl/TCT/tct_detection/tct_0513/63f36c190d99497186164a90def49a42_72.jpg 1057,97,1153,224,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/e3a1a236f2b86b36c838d994d19612d2db566466.jpg 21,8,100,74,0 216,1108,247,1157,0 230,150,313,228,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/5d3bbe01ab334b329ea5d2fe729defe5_176.jpg 705,953,886,1128,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/ea38c7e52018dbe14c72062eac200514b85adb27.jpg 998,1002,1132,1180,0 995,1000,1113,1155,0
+/data/niezl/TCT/tct_detection/tct_0513/946e4b96b922488b88a594859d5466d6_237.jpg 1281,622,1386,747,0
+/data/niezl/TCT/tct_detection/tct_0513/4f6f2f15b75049b2a65ac1dea9c06919_402.jpg 418,1007,565,1112,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/385c1d1aa5564dbfa98a580c7fdb1b33_66.jpg 1496,503,1632,725,0
+/data/niezl/TCT/tct_detection/tct_0513/7b8747978dc14587bab01790e7799dbe_469.jpg 1380,26,1614,248,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/7da1b776b6b20a924bf79101cea615a10a977031.jpg 51,173,155,288,0 224,358,316,431,0 0,702,131,906,0 51,435,96,496,0
+/data/niezl/TCT/tct_detection/tct_0513/053c18204cd14d3b8d69f9a2d6e094f4_159.jpg 5,445,294,688,0
+/data/niezl/TCT/tct_detection/tct_0513/096394dcf54d4cb5b65b7f52880fda0b_85.jpg 677,985,796,1201,0 112,936,278,1106,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/782c1789ac0ca41bec03673994e6cbd34a422484.jpg 1280,1084,1396,1149,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/93435442dc6415f08ef6e3fed7e91d49132bc76d.jpg 481,116,580,234,0
+/data/niezl/TCT/tct_detection/tct_0513/a5aa7e0ef65c4e2594a4de26bd33fce8_176.jpg 279,750,489,918,0
+/data/niezl/TCT/tct_detection/tct_0513/5943e863302742fab6956192932a172e_90.jpg 483,233,666,539,0
+/data/niezl/TCT/tct_detection/tct_0513/0b559ea57e4142588161f60368c801b9_144.jpg 461,59,696,303,0
+/data/niezl/TCT/tct_detection/tct_0513/bc3dc5e2ff894545b0a7ec2b330b1fca_68.jpg 327,799,451,960,0 659,415,789,557,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/4f6f2f15b75049b2a65ac1dea9c06919_12.jpg 209,157,382,293,0 834,742,1026,1013,0
+/data/niezl/TCT/tct_detection/tct_0513/946e4b96b922488b88a594859d5466d6_143.jpg 1242,405,1390,528,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/bff0044da12845898a0e624f444b4f74_119.jpg 384,617,507,768,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/5aa1c723040a21bba85052029fe0ef6b249c1aca.jpg 861,1060,959,1125,0 129,698,333,824,0 1377,1102,1532,1203,0 480,175,674,287,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/b5bce92b7eb6b7fa0b49af81b250bfdaff5d5d79.jpg 1459,179,1625,343,0 376,408,584,520,0 463,86,627,166,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/b74624c473f09f4f2dba9a326ee4df83643f4cef.jpg 135,498,235,558,0 12,408,92,553,0 132,333,250,458,0 20,315,267,547,0
+/data/niezl/TCT/tct_detection/tct_0513/505b0fd97c6a423a86e43427ca372efa_29.jpg 1388,938,1647,1207,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_32.jpg 279,748,498,926,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_377.jpg 944,707,1130,884,0 1233,826,1364,973,0 707,218,846,369,0 800,144,1002,288,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/c9815803b6f8d5f3d01cde3cc848d0c8129f5c01.jpg 72,710,188,902,0 668,713,735,761,0 918,1047,988,1152,0
+/data/niezl/TCT/tct_detection/tct_0513/7be1b21c5f194ad4b2c83618cc8d387c_117.jpg 970,671,1093,791,0 261,834,444,990,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/942fb9b947907ab69061235f413d34dbdef91b81.jpg 625,185,689,239,0 1053,591,1108,731,0 103,170,194,253,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/3e2cc4ee513f4fdaaca219d127fc17d5_40.jpg 1198,264,1286,389,0
+/data/niezl/TCT/tct_detection/tct_0513/0f1795b05e8e4e7bbf14f77951ce97bc_287.jpg 1872,224,1932,286,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/8a7fece99cc54f0cae344d21d0630f3c_21.jpg 1505,355,1701,537,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_146.jpg 435,132,698,297,0 1698,275,1827,480,0
+/data/niezl/TCT/tct_detection/tct_0513/7be1b21c5f194ad4b2c83618cc8d387c_210.jpg 4,771,119,896,0
+/data/niezl/TCT/tct_detection/tct_0513/ac5db318a1f44b0f81f86ab1cca544d2_28.jpg 459,396,692,631,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/385c1d1aa5564dbfa98a580c7fdb1b33_41.jpg 1507,825,1695,982,0
+/data/niezl/TCT/tct_detection/tct_0513/bc3dc5e2ff894545b0a7ec2b330b1fca_14.jpg 1078,463,1247,598,0
+/data/niezl/TCT/tct_detection/tct_0513/7be1b21c5f194ad4b2c83618cc8d387c_183.jpg 63,639,183,732,0 1022,365,1153,491,0
+/data/niezl/TCT/tct_detection/tct_0513/642cfb796c0b4dc28e602aa380f5dfef_460.jpg 1365,403,1447,482,0
+/data/niezl/TCT/tct_detection/tct_0513/096394dcf54d4cb5b65b7f52880fda0b_3.jpg 1097,181,1225,375,0 326,647,420,748,0 515,839,670,970,0 716,408,918,662,0
+/data/niezl/TCT/tct_detection/tct_0513/4ca5258925e8471294d607a6aedea040_154.jpg 156,753,641,1048,0
+/data/niezl/TCT/tct_detection/tct_0513/cafffd51dca04100af11e1ba9585dfe5_142.jpg 697,789,763,846,0
+/data/niezl/TCT/tct_detection/tct_0513/66c2265c3cb64109b930a3263c659539_180.jpg 457,409,589,649,0
+/data/niezl/TCT/tct_detection/tct_0513/62805a85ba8e4d19b9ad76ee5cc73bc9_320.jpg 1158,220,1423,556,0
+/data/niezl/TCT/tct_detection/tct_0513/096394dcf54d4cb5b65b7f52880fda0b_61.jpg 793,681,1000,893,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/78528b66f00e984598a02a3e5d314ef7f628ef78.jpg 1447,355,1549,428,0 260,350,330,403,0
+/data/niezl/TCT/tct_detection/tct_0513/22d3bdcf40ab489bbbed0b35c4b4b044_23.jpg 885,428,1181,721,0
+/data/niezl/TCT/tct_detection/tct_0513/07bcf318373c4579bf749a7377ac025d_82.jpg 282,875,420,1013,0
+/data/niezl/TCT/tct_detection/tct_0513/5438c0687a9442fe80a090af6608693d_125.jpg 323,168,447,347,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/12f00e69e8e4800ccafc273249ca4fef029d05b5.jpg 1591,775,1671,905,0 121,546,210,627,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/385c1d1aa5564dbfa98a580c7fdb1b33_401.jpg 1421,72,1550,202,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/630569bc13a8855aee192479ba983b930ad0ca79.jpg 1164,870,1345,1018,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/67221e57bbe365dcf71b33b7a057848fbca9f4ec.jpg 536,849,590,965,0 316,4,529,128,0
+/data/niezl/TCT/tct_detection/tct_0513/ae058119904845bfb35a3103c2594f5c_293.jpg 1705,108,1836,335,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/8bd6b8931d761d01564032724a4c8ee21d7f491e.jpg 1486,314,1604,413,0 0,80,134,295,0
+/data/niezl/TCT/tct_detection/tct_0513/79380d7191cd41b08f384d291a4169c5_105.jpg 157,808,470,1129,0
+/data/niezl/TCT/tct_detection/tct_0513/7b8747978dc14587bab01790e7799dbe_30.jpg 1082,401,1216,570,0
+/data/niezl/TCT/tct_detection/tct_0513/63f36c190d99497186164a90def49a42_61.jpg 1386,389,1498,494,0
+/data/niezl/TCT/tct_detection/tct_0513/b57ef31f73df475fb64fd0bf0a56e93c_432.jpg 1477,24,1596,154,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/c76ecc6c1b454c1d98acd5eea48ee766_84.jpg 247,1086,370,1209,0
+/data/niezl/TCT/tct_detection/tct_0513/8c729b4deb32443bbf6c9751ab28a896_170.jpg 658,629,913,836,0
+/data/niezl/TCT/tct_detection/tct_0513/b363a210e7c04c11930b1badfaebf951_403.jpg 180,745,475,1018,0
+/data/niezl/TCT/tct_detection/tct_0513/a138d89014764e13ae25b1e5f5d3e0ea_406.jpg 977,268,1114,393,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/9ae1ba2e424b0541dd228a29574f9da308663bda.jpg 691,675,824,801,0 670,658,805,804,0 1147,723,1255,822,0 275,348,339,481,0
+/data/niezl/TCT/tct_detection/tct_0513/5943e863302742fab6956192932a172e_505.jpg 30,45,254,270,0
+/data/niezl/TCT/tct_detection/tct_0513/833be2f20fbe46b19b21f14f59eaa5e1_91.jpg 904,1004,1112,1204,0
+/data/niezl/TCT/tct_detection/tct_0513/1290cecdd8a94ee7b964996541cedda6_210.jpg 1588,962,1833,1120,0
+/data/niezl/TCT/tct_detection/tct_0513/63f36c190d99497186164a90def49a42_301.jpg 1443,252,1520,336,0
+/data/niezl/TCT/tct_detection/tct_0513/3e2cc4ee513f4fdaaca219d127fc17d5_34.jpg 1408,574,1536,668,0
+/data/niezl/TCT/tct_detection/tct_0513/b363a210e7c04c11930b1badfaebf951_27.jpg 1383,330,1485,439,0
+/data/niezl/TCT/tct_detection/tct_0513/9132df77d68e48b4963824c50d515467_72.jpg 1798,728,1923,874,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/2871c3ca5e5f406d9d42b2c338704944_12.jpg 129,451,390,696,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/3812bf75cd0f4b43ed46ab934578e3aa19092d83.jpg 663,707,735,817,0 647,683,737,827,0 996,890,1107,1030,0 1097,1006,1218,1087,0 456,441,712,654,0
+/data/niezl/TCT/tct_detection/tct_0513/8fcd01d7282247cc98340748a4a210f9_285.jpg 25,508,158,658,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/cd93a5ffb1bfbfedb46f6bb496fcbf02bd32647b.jpg 613,1031,751,1192,0 1163,1088,1232,1169,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/8ca490a51da50ee71e44f187f17e1f876af53bab.jpg 448,737,509,846,0 147,987,193,1046,0 1358,981,1431,1048,0 584,724,656,781,0 174,211,301,374,0 509,1077,574,1180,0
+/data/niezl/TCT/tct_detection/tct_0513/9b465ecd4034419aa6984ffe38118590_98.jpg 1505,241,1691,423,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/053c18204cd14d3b8d69f9a2d6e094f4_429.jpg 1221,116,1593,441,0
+/data/niezl/TCT/tct_detection/tct_0513/903611c9ef13488aaa96cfe745edfb2f_469.jpg 1018,168,1309,425,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/f45bd5f20837d3a5efb6518b76d94069a24d5236.jpg 1831,148,1928,325,0
+/data/niezl/TCT/tct_detection/tct_0513/7b8747978dc14587bab01790e7799dbe_291.jpg 236,999,365,1194,0
+/data/niezl/TCT/tct_detection/tct_0513/2e260b19648d4e0a991fb4b19e9bd1f9_185.jpg 452,711,676,823,0
+/data/niezl/TCT/tct_detection/tct_0513/da307f74c5264bd5952e5bb0f50c66af_151.jpg 137,508,238,598,0
+/data/niezl/TCT/tct_detection/tct_0513/652036e5bc03450c8a735aadde1b9b2f_51.jpg 1352,316,1493,460,0
+/data/niezl/TCT/tct_detection/tct_0513/5943e863302742fab6956192932a172e_103.jpg 172,211,554,666,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/c073955c0da637e2d4c37d7bf7a54e46c943270d.jpg 152,777,275,862,0
+/data/niezl/TCT/tct_detection/tct_0513/db1a6dc901734173928b90864ae67216_499.jpg 1513,204,1839,385,0
+/data/niezl/TCT/tct_detection/tct_0513/3789fff0c4484d8b9519d307d74e7437_237.jpg 1145,203,1296,444,0
+/data/niezl/TCT/tct_detection/tct_0513/5f6efd30ab1342dcb09fa7cf8ae7f648_242.jpg 342,779,470,921,0
+/data/niezl/TCT/tct_detection/tct_0513/7be1b21c5f194ad4b2c83618cc8d387c_294.jpg 138,140,257,291,0
+/data/niezl/TCT/tct_detection/tct_0513/5ce078b512bd4744ae3cef0b8a20d661_493.jpg 796,203,914,347,0
+/data/niezl/TCT/tct_detection/tct_0513/66c2265c3cb64109b930a3263c659539_73.jpg 452,115,596,304,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_87.jpg 505,170,635,337,0 1314,709,1534,922,0 597,1034,764,1179,0
+/data/niezl/TCT/tct_detection/tct_0513/79380d7191cd41b08f384d291a4169c5_177.jpg 826,898,943,1058,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/d1aed1aaee2506df03bcfab5ada6c606171c832b.jpg 602,538,814,681,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_144.jpg 73,1014,276,1202,0 878,781,1069,1067,0 462,855,784,1040,0 1322,700,1487,911,0
+/data/niezl/TCT/tct_detection/tct_0513/6b41bc83242f42c5b4f015ad69682bb9_367.jpg 844,801,940,882,0
+/data/niezl/TCT/tct_detection/tct_0513/5943e863302742fab6956192932a172e_502.jpg 192,26,785,442,0
+/data/niezl/TCT/tct_detection/tct_0513/8e1f4fc6c02f45a68b1d3d4ce858f4eb_342.jpg 904,56,984,188,0
+/data/niezl/TCT/tct_detection/tct_0513/0b559ea57e4142588161f60368c801b9_197.jpg 550,868,746,1103,0
+/data/niezl/TCT/tct_detection/tct_0513/8e1f4fc6c02f45a68b1d3d4ce858f4eb_316.jpg 1233,893,1329,1001,0
+/data/niezl/TCT/tct_detection/tct_0513/0a5af6b5a9e446cd812291d204840c16_335.jpg 901,991,1250,1180,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/197e142b71c0e03801e9486079faabfef70f1c02.jpg 1596,975,1697,1094,0
+/data/niezl/TCT/tct_detection/tct_0513/bc3dc5e2ff894545b0a7ec2b330b1fca_130.jpg 365,534,517,652,0
+/data/niezl/TCT/tct_detection/tct_0513/3481aaf5ac7642699d3151ebdb8c8520_339.jpg 162,322,591,775,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/1cb116d8bfb54c41b6a792d0308c2684_93.jpg 22,888,134,1018,0
+/data/niezl/TCT/tct_detection/tct_0513/63f36c190d99497186164a90def49a42_209.jpg 1804,647,1929,766,0
+/data/niezl/TCT/tct_detection/tct_0513/00feb77246af48319a03784d65cad780_346.jpg 1410,194,1664,371,0
+/data/niezl/TCT/tct_detection/tct_0513/3789fff0c4484d8b9519d307d74e7437_210.jpg 865,612,1119,757,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/65f68b3076bab5803cf298bd2355035c0a45eaad.jpg 1445,1093,1541,1189,0 1219,520,1299,620,0
+/data/niezl/TCT/tct_detection/tct_0513/e834f7a72bce4a339537100a660c6299_154.jpg 918,257,1112,429,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/865a30f1936340189465eb5260c02784_181.jpg 1691,423,1925,611,0
+/data/niezl/TCT/tct_detection/tct_0513/c5082a6339614994a2075b654f698afd_179.jpg 1782,1044,1854,1198,0 882,739,1048,908,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/705b37e1daf64560b132a8d73c8ae290_218.jpg 1037,720,1197,914,0
+/data/niezl/TCT/tct_detection/tct_0513/2f57c1ebc3024a78ae67bdedb68a30f6_492.jpg 334,368,561,570,0
+/data/niezl/TCT/tct_detection/tct_0513/8e14204e39164f4ba0097a6864283be2_6.jpg 1322,5,1454,147,0
+/data/niezl/TCT/tct_detection/tct_0513/f2c637bf82bd4052b4f03925cc0ce7a0_62.jpg 461,205,673,507,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/ac62b942202b40f99675382b6076a231_309.jpg 1658,605,1811,812,0
+/data/niezl/TCT/tct_detection/tct_0513/06829c3658de41c2b792b08d39c4453c_359.jpg 844,136,1002,244,0
+/data/niezl/TCT/tct_detection/tct_0513/bc3dc5e2ff894545b0a7ec2b330b1fca_22.jpg 101,409,338,571,0
+/data/niezl/TCT/tct_detection/tct_0513/b363a210e7c04c11930b1badfaebf951_281.jpg 1359,1012,1563,1116,0 834,112,1056,334,0
+/data/niezl/TCT/tct_detection/tct_0513/fa05d1888dce4a2c8e41179af4920280_49.jpg 585,243,758,480,0
+/data/niezl/TCT/tct_detection/tct_0513/ce51da23f1f54ac48e24ea9634293011_307.jpg 1196,51,1365,199,0
+/data/niezl/TCT/tct_detection/tct_0513/c386ca18f57d485da07b76057d75be76_356.jpg 1205,1055,1336,1195,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/8b64975fa3435503f23cebad1009a87b332766c9.jpg 462,215,565,282,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/50bd7d47af37f9e4afb7ad7974219a4875f4601f.jpg 249,466,352,587,0 415,753,523,923,0
+/data/niezl/TCT/tct_detection/tct_0513/3789fff0c4484d8b9519d307d74e7437_251.jpg 474,47,573,144,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/a2360e678b015ec4cc70cc81efa4447618e370c1.jpg 1728,926,1763,988,0 1323,602,1379,658,0 408,72,507,170,0
+/data/niezl/TCT/tct_detection/tct_0513/6ac18b37031047c4938cd688422a294f_259.jpg 1482,1081,1646,1213,0
+/data/niezl/TCT/tct_detection/tct_0513/c1dfb8ad371240c48ac7efd19d884aac_105.jpg 1402,750,1667,1030,0
+/data/niezl/TCT/tct_detection/tct_0513/02b6503529204bfe840b5810788e0dbf_124.jpg 574,117,744,317,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/5a862f127bf74d95a4b049a4a4d7b300_219.jpg 382,54,619,287,0
+/data/niezl/TCT/tct_detection/tct_0513/a547de88114747668c14520fd4a819d2_94.jpg 1426,513,1818,789,0
+/data/niezl/TCT/tct_detection/tct_0513/b363a210e7c04c11930b1badfaebf951_47.jpg 1064,615,1229,773,0
+/data/niezl/TCT/tct_detection/tct_0513/25d6934de9c2445989055a58217e4c2d_195.jpg 1632,619,1783,784,0
+/data/niezl/TCT/tct_detection/tct_0513/5438c0687a9442fe80a090af6608693d_304.jpg 1152,820,1519,1001,0
+/data/niezl/TCT/tct_detection/tct_0513/a64eb199123045c8891530dba45df589_248.jpg 244,1043,444,1203,0
+/data/niezl/TCT/tct_detection/tct_0513/3789fff0c4484d8b9519d307d74e7437_476.jpg 642,298,808,517,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/edc21f5827db3ba6c3f3eff80357161b02f32019.jpg 1090,137,1158,220,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/833be2f20fbe46b19b21f14f59eaa5e1_186.jpg 384,620,539,716,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_329.jpg 378,570,559,726,0
+/data/niezl/TCT/tct_detection/tct_0513/9f7df53c983545f6ba5af70058fee07b_46.jpg 176,279,317,425,0
+/data/niezl/TCT/tct_detection/tct_0513/9b465ecd4034419aa6984ffe38118590_222.jpg 103,252,256,493,0
+/data/niezl/TCT/tct_detection/tct_0513/3481aaf5ac7642699d3151ebdb8c8520_421.jpg 1472,29,1923,447,0
+/data/niezl/TCT/tct_detection/tct_0513/4f6f2f15b75049b2a65ac1dea9c06919_525.jpg 664,278,800,427,0 1339,584,1643,740,0
+/data/niezl/TCT/tct_detection/tct_0513/c2804710fcc547a2956f97811dbc0c17_125.jpg 1567,746,1740,946,0
+/data/niezl/TCT/tct_detection/tct_0513/0a5af6b5a9e446cd812291d204840c16_464.jpg 1227,296,1416,592,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_90.jpg 273,517,368,639,0 1711,12,1844,138,0 1529,389,1700,525,0 623,676,733,797,0 417,681,528,789,0 532,797,630,916,0 1331,515,1612,736,0 1572,85,1685,231,0 732,809,971,995,0
+/data/niezl/TCT/tct_detection/tct_0513/5943e863302742fab6956192932a172e_165.jpg 30,30,293,354,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_26.jpg 973,36,1038,118,0
+/data/niezl/TCT/tct_detection/tct_0513/3fc72122cd384645bec7453a7902c7b9_157.jpg 224,14,324,71,0 1678,1090,1783,1188,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_330.jpg 865,1156,1023,1216,0
+/data/niezl/TCT/tct_detection/tct_0513/ac62b942202b40f99675382b6076a231_256.jpg 1550,1004,1757,1135,0
+/data/niezl/TCT/tct_detection/tct_0513/f9d88195cbb044df8f84e146e0c3c6f0_389.jpg 493,21,605,90,0
+/data/niezl/TCT/tct_detection/tct_0513/dae34bb2594a41f7a7d2d4d9e5004be1_421.jpg 7,325,188,886,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/a5ef9f7a51e43c70d2b394ab3262c35f32fc061b.jpg 1829,623,1914,788,0
+/data/niezl/TCT/tct_detection/tct_0513/5943e863302742fab6956192932a172e_363.jpg 1388,2,1617,160,0
+/data/niezl/TCT/tct_detection/tct_0513/1482934833624723aabb8003f5ec00f8_479.jpg 1417,1126,1527,1188,0
+/data/niezl/TCT/tct_detection/tct_0513/3789fff0c4484d8b9519d307d74e7437_327.jpg 502,507,582,625,0
+/data/niezl/TCT/tct_detection/tct_0513/385c1d1aa5564dbfa98a580c7fdb1b33_521.jpg 1641,273,1899,644,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/d2aac719c39f7faef359c8f2df6061c2fd20aff8.jpg 1466,3,1580,77,0
+/data/niezl/TCT/tct_detection/tct_0513/3886a6625aaa43b38bbeb429c44e7640_107.jpg 1363,369,1493,609,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/385c1d1aa5564dbfa98a580c7fdb1b33_219.jpg 1720,249,1917,529,0
+/data/niezl/TCT/tct_detection/tct_0513/c0efc0a186814ed9bf9490bc6ffa7539_22.jpg 25,450,336,884,0
+/data/niezl/TCT/tct_detection/tct_0513/73a14d6772b7496a9abf7c8c151d911e_8.jpg 966,720,1119,865,0
+/data/niezl/TCT/tct_detection/tct_0513/6fe64c3434824b49bd15c35c27748b93_363.jpg 772,196,923,505,0
+/data/niezl/TCT/tct_detection/tct_0513/07bcf318373c4579bf749a7377ac025d_192.jpg 1507,319,1630,431,0
+/data/niezl/TCT/tct_detection/tct_0513/096394dcf54d4cb5b65b7f52880fda0b_22.jpg 798,1063,929,1205,0 22,157,190,369,0 1789,41,1886,235,0 390,181,496,300,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/03006a53c7ea4ed8a7406136f90ffeaab32ac0e8.jpg 1514,87,1568,208,0
+/data/niezl/TCT/tct_detection/tct_0513/8322c6040d8a478d8f77a4cdc6575802_363.jpg 243,634,323,697,0
+/data/niezl/TCT/tct_detection/tct_0513/0ae96e901f73422d96959cf006a62e98_256.jpg 1235,85,1378,256,0
+/data/niezl/TCT/tct_detection/tct_0513/946e4b96b922488b88a594859d5466d6_141.jpg 55,154,288,686,0
+/data/niezl/TCT/tct_detection/tct_0513/5943e863302742fab6956192932a172e_151.jpg 1731,606,1930,938,0
+/data/niezl/TCT/tct_detection/tct_0513/082b6820f42249dbbe5b715ad95cab3c_440.jpg 845,599,1216,1015,0
+/data/niezl/TCT/tct_detection/tct_0513/4a4469b6a47142b9a230f16d4b139ccb_383.jpg 554,938,854,1205,0
+/data/niezl/TCT/tct_detection/tct_0513/4f6f2f15b75049b2a65ac1dea9c06919_518.jpg 1179,923,1337,1084,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_72.jpg 653,623,891,791,0
+/data/niezl/TCT/tct_detection/tct_0513/903611c9ef13488aaa96cfe745edfb2f_111.jpg 558,617,798,927,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/6b0b24c2311982a73b9e561376199d28a00a411d.jpg 759,909,942,1099,0 818,909,964,1064,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/8e14204e39164f4ba0097a6864283be2_372.jpg 749,69,954,261,0
+/data/niezl/TCT/tct_detection/tct_0513/082b6820f42249dbbe5b715ad95cab3c_315.jpg 224,640,431,800,0
+/data/niezl/TCT/tct_detection/tct_0513/3789fff0c4484d8b9519d307d74e7437_81.jpg 50,476,265,673,0
+/data/niezl/TCT/tct_detection/tct_0513/8ec39d17dd8a447d851fb123653ecd34_141.jpg 56,37,375,261,0
+/data/niezl/TCT/tct_detection/tct_0513/ec0d82b238214f1f90480d91924913b5_115.jpg 1139,962,1386,1138,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/ae058119904845bfb35a3103c2594f5c_147.jpg 568,784,875,949,0
+/data/niezl/TCT/tct_detection/tct_0513/705b37e1daf64560b132a8d73c8ae290_120.jpg 1287,752,1380,934,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/c386ca18f57d485da07b76057d75be76_207.jpg 1059,174,1146,284,0
+/data/niezl/TCT/tct_detection/tct_0513/8c2b3b4ae92f4ad7b984631ea177eb49_114.jpg 834,11,970,207,0
+/data/niezl/TCT/tct_detection/tct_0513/706905c43d7f42e9a8e0f17da5f5f480_460.jpg 1605,398,1865,750,0
+/data/niezl/TCT/tct_detection/tct_0513/8e1f4fc6c02f45a68b1d3d4ce858f4eb_333.jpg 447,715,523,829,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/1cb116d8bfb54c41b6a792d0308c2684_81.jpg 502,30,612,129,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/25c43a0f88e35b1d46c373e637e7ef2231345b66.jpg 287,889,339,948,0 670,894,791,994,0 1167,1120,1228,1196,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/5d3bbe01ab334b329ea5d2fe729defe5_280.jpg 1322,239,1483,444,0
+/data/niezl/TCT/tct_detection/tct_0513/3789fff0c4484d8b9519d307d74e7437_325.jpg 1231,567,1350,808,0
+/data/niezl/TCT/tct_detection/tct_0513/5b299f2f06fe492bb2c2bea73db0de04_280.jpg 1050,983,1287,1201,0
+/data/niezl/TCT/tct_detection/tct_0513/9132df77d68e48b4963824c50d515467_241.jpg 742,383,966,531,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/62f7cf567c90cb27af70ee10b13095b6456e40e9.jpg 1373,103,1743,608,0
+/data/niezl/TCT/tct_detection/tct_0513/59f3a589997e48458fdfb3b21f809a2c_145.jpg 249,802,447,962,0 1573,7,1766,208,0
+/data/niezl/TCT/tct_detection/tct_0513/3e2cc4ee513f4fdaaca219d127fc17d5_51.jpg 1525,477,1744,744,0 19,17,229,449,0
+/data/niezl/TCT/tct_detection/tct_0513/5f6efd30ab1342dcb09fa7cf8ae7f648_7.jpg 766,391,923,527,0
+/data/niezl/TCT/tct_detection/tct_0513/6d00a9ca5c3248db93e2f72937fb683c_211.jpg 1647,76,1876,364,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/5f8661f3416442f0ce6d1959607af9e4c7e41639.jpg 153,383,236,475,0 225,741,325,813,0
+/data/niezl/TCT/tct_detection/tct_0513/096394dcf54d4cb5b65b7f52880fda0b_195.jpg 1095,582,1306,761,0 1380,162,1574,310,0
+/data/niezl/TCT/tct_detection/tct_0513/6ac18b37031047c4938cd688422a294f_109.jpg 320,763,454,891,0
+/data/niezl/TCT/tct_detection/tct_0513/5860121eb6d54f99924b98cc1abec137_521.jpg 401,337,563,471,0
+/data/niezl/TCT/tct_detection/tct_0513/096394dcf54d4cb5b65b7f52880fda0b_45.jpg 1328,571,1494,727,0 498,26,729,194,0 84,88,192,248,0 229,1104,347,1212,0 1539,651,1817,1018,0
+/data/niezl/TCT/tct_detection/tct_0513/06829c3658de41c2b792b08d39c4453c_472.jpg 952,6,1180,130,0
+/data/niezl/TCT/tct_detection/tct_0513/5ad687b3e881452fb110e84dc142e310_127.jpg 87,441,198,544,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/bf2113e6409388d48fbd16f33b418be0ed47b857.jpg 265,310,385,383,0 1088,903,1248,1076,0
+/data/niezl/TCT/tct_detection/tct_0513/8c2b3b4ae92f4ad7b984631ea177eb49_212.jpg 1065,295,1164,457,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/557baba825805c41934e7e67828269e22c99b3de.jpg 1382,1085,1445,1142,0 1259,870,1340,977,0 719,889,1035,993,0
+/data/niezl/TCT/tct_detection/tct_0513/050667955b17452383eb6323bb39a4ae_23.jpg 1114,7,1187,50,0 280,665,337,728,0
+/data/niezl/TCT/tct_detection/tct_0513/b363a210e7c04c11930b1badfaebf951_336.jpg 1471,938,1609,1092,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_179.jpg 208,494,352,710,0 1439,113,1695,255,0 393,649,571,851,0
+/data/niezl/TCT/tct_detection/tct_0513/5b299f2f06fe492bb2c2bea73db0de04_339.jpg 112,593,364,849,0
+/data/niezl/TCT/tct_detection/tct_0513/946e4b96b922488b88a594859d5466d6_289.jpg 1091,811,1201,964,0
+/data/niezl/TCT/tct_detection/tct_0513/096394dcf54d4cb5b65b7f52880fda0b_162.jpg 806,2,983,104,0
+/data/niezl/TCT/tct_detection/tct_0513/42a97cdf500047b191997aff46652628_504.jpg 689,322,800,419,0
+/data/niezl/TCT/tct_detection/tct_0513/6fe64c3434824b49bd15c35c27748b93_68.jpg 222,364,384,548,0 1662,692,1833,791,0
+/data/niezl/TCT/tct_detection/tct_0513/4553c570b1cf43289c7b65f651049b85_12.jpg 664,53,806,252,0
+/data/niezl/TCT/tct_detection/tct_0513/bd7d7286a07c426ea0fd84ff88e3b0d1_444.jpg 974,240,1106,292,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/7907351d6ffa7ea0602d33a11e3e3a7c26eb30f4.jpg 371,1057,442,1114,0 99,989,176,1082,0 904,546,1025,691,0 331,237,400,413,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/8cc0e4bd40ea40d82c2069a25788c4a7249dfe93.jpg 227,426,307,561,0 258,367,434,502,0 129,365,195,439,0 141,264,227,346,0 106,695,230,861,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/15e15767c2095c2995f2afdf006bedf7068edb9e.jpg 416,1025,610,1156,0
+/data/niezl/TCT/tct_detection/tct_0513/25d6934de9c2445989055a58217e4c2d_117.jpg 420,368,596,464,0
+/data/niezl/TCT/tct_detection/tct_0513/a8da6c55f89e4e26a63bf9e7b3ae59d5_126.jpg 679,950,892,1118,0
+/data/niezl/TCT/tct_detection/tct_0513/320566ffc82a4c37af1c5cee261905b1_136.jpg 299,460,447,556,0
+/data/niezl/TCT/tct_detection/tct_0513/3789fff0c4484d8b9519d307d74e7437_124.jpg 1488,511,1699,914,0
+/data/niezl/TCT/tct_detection/tct_0513/45834fb6546149c4b398973fdbf885b0_77.jpg 1046,21,1169,218,0 587,594,662,667,0
+/data/niezl/TCT/tct_detection/tct_0214_checked_0711/ac393f1d6586d7a8946c78f430aeb0236d9529f5.jpg 1651,466,1873,598,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/8fcd01d7282247cc98340748a4a210f9_322.jpg 626,76,756,254,0
+/data/niezl/TCT/tct_detection/tct_0513/b4151a4e95fb4c18adbcb5de19e08e30_397.jpg 1203,530,1399,856,0
+/data/niezl/TCT/tct_detection/tct_0513_checked_0711/8c2b3b4ae92f4ad7b984631ea177eb49_314.jpg 856,263,1018,444,0
+/data/niezl/TCT/tct_detection/tct_0513/5c315ddf29954ab39536a88f89a77627_79.jpg 1587,1015,1792,1207,0
+/data/niezl/TCT/tct_detection/tct_0513/a8da6c55f89e4e26a63bf9e7b3ae59d5_263.jpg 972,522,1222,795,0
+/data/niezl/TCT/tct_detection/tct_0513/a8c74b71f33a44fc9711430bc0986263_130.jpg 556,513,709,671,0
+/data/niezl/TCT/tct_detection/tct_0513/8fcd01d7282247cc98340748a4a210f9_449.jpg 799,1003,879,1101,0
+/data/niezl/TCT/tct_detection/tct_0513/07bcf318373c4579bf749a7377ac025d_281.jpg 1453,621,1770,1084,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_216.jpg 1390,458,1648,661,0 827,226,979,336,0
+/data/niezl/TCT/tct_detection/tct_0513/4553c570b1cf43289c7b65f651049b85_107.jpg 635,875,747,998,0
+/data/niezl/TCT/tct_detection/tct_0513/b363a210e7c04c11930b1badfaebf951_130.jpg 1792,747,1914,886,0
+/data/niezl/TCT/tct_detection/tct_0513/b96b87cefa494eddb0a3eb7fd71e2d0b_406.jpg 948,723,1136,868,0
+/data/niezl/TCT/tct_detection/tct_0513/c804c7f936ac422bbb250c86ca3d9b83_281.jpg 429,840,597,1055,0
+/data/niezl/TCT/tct_detection/tct_0513/5943e863302742fab6956192932a172e_283.jpg 537,733,731,897,0
+/data/niezl/TCT/tct_detection/tct_0513/bd535ced6c384b99b9af961e082fd703_505.jpg 78,65,233,216,0 356,1119,522,1201,0
+/data/niezl/TCT/tct_detection/tct_0513/a8da6c55f89e4e26a63bf9e7b3ae59d5_107.jpg 400,32,615,238,0
